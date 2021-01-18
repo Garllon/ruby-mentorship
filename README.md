@@ -10,7 +10,7 @@
     - Windows: Is is in the right bottom corner.
 5. Configure your new directory in Docker Desktop
     1. First click on the gear
-    2. Then Resource and FileShare
+    2. Then Resources and File Sharing
     3. Click the `⊕` Button
     
     ![Config Code Folder](/screenshots/ConfigDockerDesktopFileSharing.png)
@@ -21,14 +21,15 @@
     ![Config Code Folder](/screenshots/CreateContainerInit.png)
 
     1. Define a name you like
-    2. Pic the directoty you created in Step 2
-    3. Define a container_path like '/<name>'
+    2. Pick the directory you created in Step 2
+    3. Define a container_path like `/<name>`
     
     ![Config Code Folder](/screenshots/CreateContainerSetup.png)
     
-7. Open a terminal by clickin the  the container
+7. Open a terminal by clicking the container
 
     ![Config Code Folder](/screenshots/RunTerminal.png)
 
+8. You are ready to go
 
-
+    ![Config Code Folder](/screenshots/ReadyToGo.png)
