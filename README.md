@@ -6,7 +6,8 @@
 2. Set up a new directory for your coding journey (remember it's name and where it's located)
 3. Execute `docker pull garllon/mentorship` on a console (Windows: Cmd or PowerShell; MacOS: Termnial)
 4. Configure your new directory in Docker Desktop
-    1. Insert screenshots here
+    ![Config Code Folder](/screenshots/ConfigDockerDesktopFileSharing.png)
 5. Spin up a new container
+    ![Config Code Folder](/screenshots/CreateContainerSetup.png)
 6. Open a terminal __within__ the container
-    1. Insert screenshots here
+    ![Config Code Folder](/screenshots/CreateContainerInit.png)
