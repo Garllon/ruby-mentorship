@@ -1,6 +1,12 @@
 ## Mentorship
 
+- [Setup](#setup)
+  - [For MacOS and Windows User](#for-macos-and-windows-user)
+  - [For Linux User](#for-linux-user)
+
 ## Setup
+
+### For MacOS and Windows User
 
 1. Install Docker Desktop if you are using Windows or MacOs as operating system. (Docker Desktop)[https://www.docker.com/products/docker-desktop]
 2. Set up a new directory for your coding journey (remember it's name and where it's located)
@@ -33,3 +39,17 @@
 8. You are ready to go
 
     ![Config Code Folder](/screenshots/ReadyToGo.png)
+    
+### For Linux User
+
+Run
+```shell
+docker pull garllon/mentorship
+```
+and then run
+```shell
+docker run -it garllon/mentorship sh
+```
+to start the container.
+
+Maybe you need to add `sudo` in front of the commands to run it with sudo permissions.
