@@ -7,7 +7,7 @@
 
 ## General
 
-This is a guide for doing a mentorship. It is baed on ruby, currently 2.7.x.
+This is a guide for doing a mentorship. It is based on ruby, currently 2.7
 We are starting with the setup and then go from lesson to lesson.
 
 ## Setup
