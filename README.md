@@ -3,6 +3,12 @@
 - [Setup](#setup)
   - [For MacOS and Windows User](#for-macos-and-windows-user)
   - [For Linux User](#for-linux-user)
+- [Lesson 1 - Variables](#lesson-1-variables)
+
+## General
+
+This is a guide for doing a mentorship. It is baed on ruby, currently 2.7.x.
+We are starting with the setup and then go from lesson to lesson.
 
 ## Setup
 
@@ -53,3 +59,8 @@ docker run -it garllon/mentorship sh
 to start the container.
 
 Maybe you need to add `sudo` in front of the commands to run it with sudo permissions.
+
+### Lesson 1 Variables
+
+We are explaining what variables are and how to use them:
+[Lesson 1 - Variables](/lessons/1-variables.md)
