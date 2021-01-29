@@ -63,4 +63,7 @@ Maybe you need to add `sudo` in front of the commands to run it with sudo permis
 ### Lesson 1 Variables
 
 We are explaining what variables are and how to use them:
-[Lesson 1 - Variables](/lessons/1-variables.md)
+
+Lesson 1: [Variables](/lessons/1-variables.md)
+
+Example: [Ruby - Variables](/lessons/examples/1-variables.rb)
