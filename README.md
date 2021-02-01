@@ -7,7 +7,7 @@
 
 ## General
 
-This is a guide for doing a mentorship. It is based on ruby, currently 2.7
+This is a guide for doing a mentorship. It is based on ruby, currently [2.7](https://ruby-doc.org/core-2.7.0/)
 We are starting with the setup and then go from lesson to lesson.
 
 ## Setup
@@ -66,4 +66,4 @@ We are explaining what variables are and how to use them:
 
 Lesson 1: [Variables](/lessons/1-variables.md)
 
-Example: [Ruby - Variables](/lessons/examples/1-variables.rb)
+Example: [Ruby - Variables](/lessons/examples/1_variables.rb)

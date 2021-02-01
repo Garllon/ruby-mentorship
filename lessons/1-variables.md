@@ -8,21 +8,99 @@ Ruby there are different kinds of variables (you will get to know another one in
 a couple chapters).
 
 In Ruby you can assign a name to something (an object) by using the so called
-assignment operator =.
+assignment operator =. On the left side you have the variable name and on the
+right side, what you like to assign.
+
+### Number
+
+Define an number.
+```ruby
+# An number
+number = 1
+```
+
+Calculcate with numbers
+```ruby
+number1 = 10
+number2 = 5
+
+# Use the + operator
+result = number1 + number2
+puts result 
+# => 15
+
+# Use the / operator
+result = number1 / number2
+puts result 
+# => 0
+```
+
+Why is the last result 0 instead of 0.5 what we would expect?
+Integer is limited to whole numbers. If we like to do this operation correct
+we need floating point numbers. So the same operation as before, except that
+we define the numbers as floats.
 
 ```ruby
-# An Integer
-number = 1
+number1 = 10.0
+number2 = 5.0
 
+# Use the / operator
+result = number1 / number2
+puts result 
+# => 0.5
+```
+
+Why not always use floats is maybe a question you have? Floats needs more
+memory and in the computer science you like to optimize your code.
+Think power usage. Your smartphone live longer, before you need to recharge. :)
+
+### Text(String)
+
+```ruby
 # A Text
 text = 'Hallo World'
+```
 
+You can also merge two texts together:
+```ruby
+# One Text
+text1 = 'Hello'
+text2 = 'World'
+puts text1 + text2
+```
+
+### Boolean
+
+```ruby
 # A Boolean
 is_mentor = true
 ```
 
+### List(Array)
+
+```ruby
+# Merge different things together like fruits and vegetables
+fruits = ['Apple','Orange']
+vegetables = ['Cucumber', 'Tomate']
+
+basket = fruits + vegetables
+
+# Remove fruits from basket
+basket = ['Apple', 'Tomate', 'Orange']
+fruits = ['Orange', 'Apple']
+
+basket = basket - fruits
+```
+
 ## DataTypes
+
+- Number (Integer, Float, ..)
+- Text (String)
+- Boolean (true/false)
+- List (Array)
+- Hash (Key Value Pairs)
+- Nil (Nothing, Empty)
 
 ## Examples
 
-[Ruby - Variables](/lessons/examples/1-variables.rb)
+[Ruby - Variables](/lessons/examples/1_variables.rb)
