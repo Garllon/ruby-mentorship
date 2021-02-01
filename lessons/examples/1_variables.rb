@@ -27,12 +27,35 @@ puts result
 hello = 'Hello World'
 puts hello
 
+### ARRAY ###
+#
+# Merge different things together like fruits and vegetables
+fruits = ['Apple','Orange']
+vegetables = ['Cucumber', 'Tomate']
+
+basket = fruits + vegetables
+puts basket
+
+# Remove fruits from basket
+basket = ['Apple', 'Tomate', 'Orange']
+fruits = ['Orange', 'Apple']
+
+basket = basket - fruits
+puts basket
+
+# Use the index of lists
+# With the following command we get the first element of the array.
+puts fruits[0]
+# => 'Orange'
+
 ### BOOLEAN ###
 
 # Define a boolean
 
-is_mentor = true
-puts is_mentor
+number = 2
+is_number_greater = 5 > number
+puts is_number_greater
+# => false
 
 # Define a if statement
 
@@ -54,25 +77,5 @@ if is_mentor
 else
   message = 'No you are not a mentor, maybe you are a student.'
 end
-
 puts message
-### ARRAY ###
-#
-# Merge different things together like fruits and vegetables
-fruits = ['Apple','Orange']
-vegetables = ['Cucumber', 'Tomate']
 
-basket = fruits + vegetables
-puts basket
-
-# Remove fruits from basket
-basket = ['Apple', 'Tomate', 'Orange']
-fruits = ['Orange', 'Apple']
-
-basket = basket - fruits
-puts basket
-
-### HASH ###
-
-key_value_pair = { name: 'Bennet', age: 32 }
-puts key_value_pair
