@@ -58,9 +58,9 @@ puts result
 # => 0.5
 ```
 
-Why not always use floats is maybe a question you have? Floats needs more
-memory and in the computer science you like to optimize your code.
-Think power usage. Your smartphone live longer, before you need to recharge. :)
+Why not always use floats you ask? Floats need more
+resources and we like to optimize code.
+Think power usage. Your smartphone can live longer before you need to recharge. :)
 
 ### Text(String)
 
