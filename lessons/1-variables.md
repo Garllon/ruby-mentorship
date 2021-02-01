@@ -23,11 +23,11 @@ right side, what you like to assign.
 
 Define an number.
 ```ruby
-# An number
+# A number
 number = 1
 ```
 
-Calculcate with numbers
+Calculcate with numbers.
 ```ruby
 number1 = 10
 number2 = 5
