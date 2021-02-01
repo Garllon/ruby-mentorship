@@ -70,4 +70,4 @@ Lesson 1: [Variables](/lessons/1-variables.md)
 
 Example: [Ruby - Variables](/lessons/examples/1_variables.rb)
 
-### Lesson 2 - Methods (Under Construction)
+### Lesson 2 Methods (Under Construction)
