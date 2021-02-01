@@ -2,8 +2,8 @@
 
 - [Variables](#variables)
   - [Number](#number)
-  - [Text(String)](#text-string)
-  - [List(Array)](#list-array)
+  - [Text(String)](#textstring)
+  - [List(Array)](#listarray)
   - [Boolean](#boolean)
 - [DataTypes](#datatypes)
 - [Examples](#examples)
@@ -23,11 +23,11 @@ right side, what you like to assign.
 
 Define an number.
 ```ruby
-# An number
+# A number
 number = 1
 ```
 
-Calculcate with numbers
+Calculcate with numbers.
 ```ruby
 number1 = 10
 number2 = 5
