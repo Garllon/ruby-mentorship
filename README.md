@@ -4,6 +4,8 @@
   - [For MacOS and Windows User](#for-macos-and-windows-user)
   - [For Linux User](#for-linux-user)
 - [Lesson 1 - Variables](#lesson-1-variables)
+- [Lesson 2 - Methods (Under
+  Construction)](#lesson-2-methods-under-construction)
 
 ## General
 
@@ -67,3 +69,5 @@ We are explaining what variables are and how to use them:
 Lesson 1: [Variables](/lessons/1-variables.md)
 
 Example: [Ruby - Variables](/lessons/examples/1_variables.rb)
+
+### Lesson 2 - Methods (Under Construction)
