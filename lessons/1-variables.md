@@ -2,8 +2,8 @@
 
 - [Variables](#variables)
   - [Number](#number)
-  - [Text(String)](#text-string)
-  - [List(Array)](#list-array)
+  - [Text(String)](#textstring)
+  - [List(Array)](#listarray)
   - [Boolean](#boolean)
 - [DataTypes](#datatypes)
 - [Examples](#examples)
