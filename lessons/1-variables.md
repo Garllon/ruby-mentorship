@@ -13,7 +13,7 @@
 Every practical programming language has a feature to do this, called variables.
 This is basically the same concept that you might know from math, although in
 Ruby there are different kinds of variables (you will get to know another one in
-a couple chapters).
+a couple lessons).
 
 In Ruby you can assign a name to something (an object) by using the so called
 assignment operator =. On the left side you have the variable name and on the
