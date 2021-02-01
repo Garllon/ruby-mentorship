@@ -10,7 +10,7 @@
 
 ## Variables
 
-Every practical programming language has a feature to do this, called variables.
+Every practical programming language has a feature called variables.
 This is basically the same concept that you might know from math, although in
 Ruby there are different kinds of variables (you will get to know another one in
 a couple lessons).
