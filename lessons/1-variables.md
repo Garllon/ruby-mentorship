@@ -43,7 +43,7 @@ puts result
 # => 0
 ```
 
-Why is the last result 0 instead of 0.5 what we would expect?
+Why is the last result 0 instead of 0.5 as expected?
 Integer is limited to whole numbers. If we like to do this operation correct
 we need floating point numbers. So the same operation as before, except that
 we define the numbers as floats.
