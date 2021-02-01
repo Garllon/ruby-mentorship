@@ -21,7 +21,8 @@ puts is_mentor
 is_mentor = true
 
 if is_mentor
-  puts 'Yes you are a mentor.'
+  message = 'Yes you are a mentor.'
+  puts message
 end
 
 # Boolean is_mentor is false and we have a else branch.
@@ -29,8 +30,10 @@ end
 is_mentor = false
 
 if is_mentor
-  puts 'Yes you are a mentor.'
+  message = 'Yes you are a mentor.'
+  puts message
 else
-  puts 'No you are not a mentor, maybe you are a student.'
+  message = 'No you are not a mentor, maybe you are a student.'
+  puts message
 end
 

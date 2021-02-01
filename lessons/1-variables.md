@@ -13,8 +13,10 @@ assignment operator =.
 ```ruby
 # An Integer
 number = 1
+
 # A Text
 text = 'Hallo World'
+
 # A Boolean
 is_mentor = true
 ```
