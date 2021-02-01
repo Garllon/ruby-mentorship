@@ -4,10 +4,12 @@
   - [For MacOS and Windows User](#for-macos-and-windows-user)
   - [For Linux User](#for-linux-user)
 - [Lesson 1 - Variables](#lesson-1-variables)
+- [Lesson 2 - Methods (Under
+  Construction)](#lesson-2-methods-under-construction)
 
 ## General
 
-This is a guide for doing a mentorship. It is based on ruby, currently 2.7
+This is a guide for doing a mentorship. It is based on ruby, currently [2.7](https://ruby-doc.org/core-2.7.0/)
 We are starting with the setup and then go from lesson to lesson.
 
 ## Setup
@@ -63,4 +65,9 @@ Maybe you need to add `sudo` in front of the commands to run it with sudo permis
 ### Lesson 1 Variables
 
 We are explaining what variables are and how to use them:
-[Lesson 1 - Variables](/lessons/1-variables.md)
+
+Lesson 1: [Variables](/lessons/1-variables.md)
+
+Example: [Ruby - Variables](/lessons/examples/1_variables.rb)
+
+### Lesson 2 Methods (Under Construction)
