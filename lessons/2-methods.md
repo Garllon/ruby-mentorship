@@ -6,7 +6,7 @@
 
 ## DataTypes Continued
 
-Link to datatype one
+The first part of DataTypes you can find here:  [DataType](lessons/1-variables.md#datatypes)
 
 ### Boolean
 
