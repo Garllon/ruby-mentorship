@@ -50,7 +50,7 @@ puts(message)
 
 A named group of ordered instructions. To execute muliple lines of code with one command.
 
-A  of code that takes input and returns output
+A block of code that can take input values and return an output
 
 ```ruby
 def addition(number1, number2)
