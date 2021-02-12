@@ -3,6 +3,11 @@
   - [DataTypes Continued](#datatypes-continued)
     - [Boolean](#boolean)
   - [Methods](#methods)
+    - [General](#general)
+    - [Return values](#return-values)
+    - [More fun with methods](#more-fun-with-methods)
+  - [Homework](#homework)
+
 
 ## DataTypes Continued
 
