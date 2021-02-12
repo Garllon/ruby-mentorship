@@ -1,10 +1,9 @@
-## Lesson 1 - Variables - DataTypes
+# Lesson 1 - Variables - DataTypes
 
 - [Variables](#variables)
   - [Number](#number)
   - [Text(String)](#textstring)
   - [List(Array)](#listarray)
-  - [Boolean](#boolean)
 - [DataTypes](#datatypes)
 - [Examples](#examples)
 
@@ -101,42 +100,12 @@ puts fruits[0]
 
 ```
 
-### Boolean
-
-```ruby
-# A Boolean
-number = 2
-is_number_greater = 5 > number
-puts is_number_greater
-# => false
-```
-
-```ruby
-is_mentor = true
-
-if is_mentor
-  message = 'Yes you are a mentor.'
-  puts message
-end
-
-# Boolean is_mentor is false and we have a else branch.
-
-is_mentor = false
-
-if is_mentor
-  message = 'Yes you are a mentor.'
-else
-  message = 'No you are not a mentor, maybe you are a student.'
-end
-puts message
-```
-
 ## DataTypes
 
 - Number (Integer, Float, ..)
 - Text (String)
 - List (Array)
-- Boolean (true/false)
+- Boolean (true/false) Will be handled in lesson-2
 - Nil (Nothing, Empty)
 
 ## Examples
