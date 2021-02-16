@@ -92,7 +92,7 @@ test
 => nil
 ```
 
-Here we call the prdefined method `puts` with the parameter `'test'`. It is printing out the parameter and then return `nil`.
+Here we call the predefined method `puts` with the parameter `'test'`. It is printing out the parameter and then return `nil`.
 The `irb` is displaying the return value with a `=>`([hash rocket](https://en.wikipedia.org/wiki/Fat_comma#Ruby)) prefix.
 
 ### More fun with methods
