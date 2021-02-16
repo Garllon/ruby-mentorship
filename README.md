@@ -13,6 +13,11 @@
 This is a guide for doing a mentorship. It is based on ruby, currently [2.7](https://ruby-doc.org/core-2.7.0/)
 We are starting with the setup and then go from lesson to lesson.
 
+### Resources
+
+* The sessions are loosely based on http://ruby-for-beginners.rubymonstas.org
+* You can look up methods and their documentation on https://rubyapi.org/2.7
+
 ## Setup
 
 ### For MacOS and Windows User
