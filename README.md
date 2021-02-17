@@ -68,6 +68,10 @@ to start the container.
 
 Maybe you need to add `sudo` in front of the commands to run it with sudo permissions.
 
+Before you start with lesson 1 now, have a look at this video.
+[How to make a sandwich](https://www.youtube.com/watch?v=U3TsVz_pJf4&t=136s&ab_channel=DigitalDixie).
+You get a funny introduction how a computer works and that the compunter can not do assumptions. :)
+
 ### Lesson 1 Variables
 
 We are explaining what variables are and how to use them:
