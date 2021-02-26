@@ -67,12 +67,13 @@ Current iteration number is: 5
     <td>array</td>
     <td>The array we like to iterate over.</td>
   </tr>
-    <tr>
-      <td>
-         <pre lang="ruby">
-            .each
-         </pre>
-      </td>
-      <td>method call/predefined</td>
-      <td>We want do do something with each element of our array.</td>
+  <tr>
+    <td>
+       <pre lang="ruby">
+          .each
+       </pre>
+    </td>
+    <td>method call/predefined</td>
+    <td>We want do do something with each element of our array.</td>
   </tr>
+</table>
