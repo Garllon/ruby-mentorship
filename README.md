@@ -87,6 +87,6 @@ Lesson 2: [Methods](/lessons/2-methods.md)
 
 ### Lesson 3 Blocks and Loops
 
-Lesson 3: [BlocksAndLoops](/lessons/2-blocks-and-loops.md)
+Lesson 3: [BlocksAndLoops](/lessons/3-blocks-and-loops.md)
 
 ### Lesson 4 (Under Construction)
