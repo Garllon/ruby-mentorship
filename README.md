@@ -5,7 +5,7 @@
   - [For Linux User](#for-linux-user)
 - [Lesson 1 - Variables](#lesson-1-variables)
 - [Lesson 2 - Methods](#lesson-2-methods)
-- [Lesson 3 - Blocks and Logs](#lesson-4-blocks-and-loops)
+- [Lesson 3 - Blocks and Logs](#lesson-3-blocks-and-loops)
 - [Lesson 4 (Under
   Construction)](#lesson-3-under-construction)
 
