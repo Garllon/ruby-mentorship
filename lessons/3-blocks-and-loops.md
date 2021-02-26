@@ -1,7 +1,9 @@
 # Lesson 3 - Loops and Blocks
 
   - [Dot Operator](#dot-operator)
+  - [Practice Time](#practice-time)
   - [Loops and Blocks](#loops-and-blocks)
+    - [each](#each)
 
 ## Dot Operator
 
@@ -15,11 +17,15 @@ We call a method on something.
 
 We call the [`length`](https://rubyapi.org/2.7/o/array#method-i-length) method on an array. 
 
+## Practice Time
+
+[Even or Odd - Codewars](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
+
 ## Loops and Blocks
 
 ### each
 
-Loop over an array of numbers(Integers)
+Loop with the [`each`](https://rubyapi.org/2.7/o/array#method-i-each) over an array of numbers(Integers)
 ```ruby
 [1, 2, 3, 4, 5].each do |number|
   puts "Current iteration number is: #{number}"
