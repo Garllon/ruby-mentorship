@@ -31,7 +31,7 @@ Solution with what you learned so far
 def even_or_odd(number)
   # calculate the module of number,
   # if rest is 0 the number must be even, if not odd.
-  if number % 2 == 0
+  if(number % 2 == 0)
     'Even'
   else
     'Odd'
@@ -43,7 +43,7 @@ or use a method Ruby already has defined for us: [even?](https://rubyapi.org/2.7
 ```ruby
 def even_or_odd(number)
   # Ruby already has the logic implemented, as you can see by clicking the link above.
-  if number.even?
+  if(number.even?)
     return 'Even'
   end
   'Odd'
