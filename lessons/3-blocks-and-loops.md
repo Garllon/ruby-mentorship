@@ -40,7 +40,7 @@ end
 or use a method Ruby already has defined for us: [even?](https://rubyapi.org/2.7/o/integer#method-i-even-3F)
 
 ```ruby
-def even_or_odd_2_lines(number)
+def even_or_odd(number)
   # Ruby already has the logic implemented, as you can see by clicking the link above.
   if number.even?
     return 'Even'
