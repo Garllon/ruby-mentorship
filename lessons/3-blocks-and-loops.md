@@ -76,7 +76,7 @@ Current iteration number is: 5
 |Part|Techinal word|Description|
 |-|-|-|
 |`[1, 2, 3, 4, 5]`|array|The array we like to iterate over.|
-|`.each`|method call/predefined|We want do do something with each element of our array.|
+|`.each`|method call/predefined|We want do something with each element of our array.|
 |`do`|keyword|start of a block, equivalent to `{`|
 |`\|number\|`|variable defination|This variable will store one element of the array in each iteration step.|
 |`puts "Current iteration number is: #{number}"`|your definition of the method|Here you define what the method should do.|
