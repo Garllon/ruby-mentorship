@@ -50,3 +50,12 @@ Current iteration number is: 5
 |`\|number\|`|variable defination|This variable will store one element of the array in each iteration step.|
 |`puts "Current iteration number is: #{number}"`|your definition of the method|Here you define what the method should do.|
 |`end`|keyword|keyword to end a block, equivalent to `}`|
+
+The block from before in the two different variants.
+```ruby
+[1, 2, 3, 4, 5].each do |number|
+  puts "Current iteration number is: #{number}"
+end
+# or
+[1, 2, 3, 4, 5].each { |number| puts "Current iteration number is: #{number}" }
+```
