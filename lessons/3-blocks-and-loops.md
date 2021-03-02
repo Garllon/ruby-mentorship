@@ -21,6 +21,36 @@ We call the [`length`](https://rubyapi.org/2.7/o/array#method-i-length) method o
 
 [Even or Odd - Codewars](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
 
+Here are some possbile solutions, in case you are stuck.
+<details>
+<summary>Possible Solutions</summary>
+
+```ruby
+# Solution with what you learned so far.
+def even_or_odd(number)
+  # calculate the module of number,
+  # if rest is 0 the number must be even, if not odd.
+  if number % 2 == 0
+    'Even'
+  else
+    'Odd'
+  end
+end
+```
+or use a method Ruby already has defined for us: [even?](https://rubyapi.org/2.7/o/integer#method-i-even-3F)
+
+```ruby
+def even_or_odd_2_lines(number)
+  # Ruby already has the logic implemented, as you can see by clicking the link above.
+  if number.even?
+    return 'Even'
+  end
+  'Odd'
+end
+```
+
+</details>
+
 ## Loops and Blocks
 
 ### each
