@@ -20,7 +20,6 @@ We are starting with the setup and then go from lesson to lesson.
 
 ## Setup
 
-- [Setup](https://github.com/Garllon/mentorship/blob/Update-setup/lessons/setup.md#setup)
 - [For MacOS and Windows User](https://github.com/Garllon/mentorship/blob/Update-setup/lessons/setup.md#for-macos-and-windows-user)
 - [For Linux User](https://github.com/Garllon/mentorship/blob/Update-setup/lessons/setup.md#for-linux-user)
 
