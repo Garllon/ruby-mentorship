@@ -20,7 +20,7 @@ The first part of DataTypes you can find here:  [DataType](lessons/1-variables.m
 number = 2
 is_number_greater = 5 > number
 puts(is_number_greater)
-# => false
+# => true
 ```
 
 ```ruby
