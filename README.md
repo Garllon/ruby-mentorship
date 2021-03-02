@@ -1,8 +1,7 @@
 ## Mentorship
 
 - [Setup](#setup)
-  - [For MacOS and Windows User](#for-macos-and-windows-user)
-  - [For Linux User](#for-linux-user)
+
 - [Lesson 1 - Variables](#lesson-1-variables)
 - [Lesson 2 - Methods](#lesson-2-methods)
 - [Lesson 3 - Blocks and Logs](#lesson-3-blocks-and-loops)
@@ -20,6 +19,10 @@ We are starting with the setup and then go from lesson to lesson.
 * You can look up methods and their documentation on https://rubyapi.org/2.7
 
 ## Setup
+
+- [Setup](https://github.com/Garllon/mentorship/blob/Update-setup/lessons/setup.md#setup)
+- [For MacOS and Windows User](https://github.com/Garllon/mentorship/blob/Update-setup/lessons/setup.md#for-macos-and-windows-user)
+- [For Linux User](https://github.com/Garllon/mentorship/blob/Update-setup/lessons/setup.md#for-linux-user)
 
 ### For MacOS and Windows User
 
