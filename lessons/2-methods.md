@@ -20,7 +20,10 @@ The first part of DataTypes you can find here:  [DataType](lessons/1-variables.m
 number = 2
 is_number_greater = 5 > number
 puts(is_number_greater)
-# => true
+
+# Output
+true
+ => nil
 ```
 
 ```ruby
@@ -30,6 +33,9 @@ if(is_mentor)
   message = 'Yes you are a mentor.'
   puts(message)
 end
+# Output
+Yes you are a mentor.
+=> nil
 
 # Boolean is_mentor is false and we have a else branch.
 
@@ -41,8 +47,11 @@ else
   message = 'No you are not a mentor, maybe you are a student.'
 end
 puts(message)
-```
 
+# Output
+No you are not a mentor, maybe you are a student.
+=> nil
+```
 
 ## Methods
 
