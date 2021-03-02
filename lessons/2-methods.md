@@ -36,9 +36,10 @@ end
 # Output
 Yes you are a mentor.
 => nil
+```
 
-# Boolean is_mentor is false and we have a else branch.
-
+Boolean is_mentor is false and we have a else branch.
+```ruby
 is_mentor = false
 
 if(is_mentor)
