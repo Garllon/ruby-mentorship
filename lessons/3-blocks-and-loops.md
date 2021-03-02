@@ -25,8 +25,9 @@ Here are some possbile solutions, in case you are stuck.
 <details>
 <summary>Possible Solutions</summary>
 
+Solution with what you learned so far
+
 ```ruby
-# Solution with what you learned so far.
 def even_or_odd(number)
   # calculate the module of number,
   # if rest is 0 the number must be even, if not odd.
