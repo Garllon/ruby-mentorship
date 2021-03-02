@@ -5,12 +5,13 @@
   - [For Linux User](#for-linux-user)
 - [Lesson 1 - Variables](#lesson-1-variables)
 - [Lesson 2 - Methods](#lesson-2-methods)
-- [Lesson 3 (Under
+- [Lesson 3 - Blocks and Logs](#lesson-3-blocks-and-loops)
+- [Lesson 4 (Under
   Construction)](#lesson-3-under-construction)
 
 ## General
 
-This is a guide for doing a mentorship. It is based on ruby, currently [2.7](https://ruby-doc.org/core-2.7.0/)
+This is a guide for doing a mentorship. It is based on ruby, currently [2.7](https://rubyapi.org/2.7)
 We are starting with the setup and then go from lesson to lesson.
 
 ### Resources
@@ -84,4 +85,8 @@ Example: [Ruby - Variables](/lessons/examples/1_variables.rb)
 
 Lesson 2: [Methods](/lessons/2-methods.md)
 
-### Lesson 3 (Under Construction)
+### Lesson 3 Blocks and Loops
+
+Lesson 3: [BlocksAndLoops](/lessons/3-blocks-and-loops.md)
+
+### Lesson 4 (Under Construction)

@@ -20,7 +20,10 @@ The first part of DataTypes you can find here:  [DataType](lessons/1-variables.m
 number = 2
 is_number_greater = 5 > number
 puts(is_number_greater)
-# => false
+
+# Output
+true
+ => nil
 ```
 
 ```ruby
@@ -30,9 +33,11 @@ if(is_mentor)
   message = 'Yes you are a mentor.'
   puts(message)
 end
+# Output
+Yes you are a mentor.
+=> nil
 
 # Boolean is_mentor is false and we have a else branch.
-
 is_mentor = false
 
 if(is_mentor)
@@ -41,8 +46,11 @@ else
   message = 'No you are not a mentor, maybe you are a student.'
 end
 puts(message)
-```
 
+# Output
+No you are not a mentor, maybe you are a student.
+=> nil
+```
 
 ## Methods
 
@@ -59,7 +67,7 @@ def addition(number1, number2)
 end
 ```
 
-|Part|Techinal word|Description|
+|Part|Type|Description|
 |-|-|-|
 |def|keyword|keyword to start a method(abbrevation of define)|
 |addition|method name|Your name of the method. We decided to name it addition here, to explain what the method will do.|

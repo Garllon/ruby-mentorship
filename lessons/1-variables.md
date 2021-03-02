@@ -28,8 +28,8 @@ number = 1
 
 Calculcate with numbers.
 ```ruby
-number1 = 10
-number2 = 5
+number1 = 5
+number2 = 10
 
 # Use the + operator
 result = number1 + number2
