@@ -73,7 +73,7 @@ Current iteration number is: 5
 => [1, 2, 3, 4, 5]
 ```
 
-|Part|Techinal word|Description|
+|Part|Type|Description|
 |-|-|-|
 |`[1, 2, 3, 4, 5]`|array|The array we like to iterate over.|
 |`.each`|method call/predefined|We want do something with each element of our array.|
