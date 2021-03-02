@@ -7,7 +7,7 @@
 - [Lesson 2 - Methods](#lesson-2-methods)
 - [Lesson 3 - Blocks and Logs](#lesson-3-blocks-and-loops)
 - [Lesson 4 (Under
-  Construction)](#lesson-3-under-construction)
+  Construction)](#lesson-4-under-construction)
 
 ## General
 
