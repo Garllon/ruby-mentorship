@@ -59,7 +59,7 @@ def addition(number1, number2)
 end
 ```
 
-|Part|Techinal word|Description|
+|Part|Type|Description|
 |-|-|-|
 |def|keyword|keyword to start a method(abbrevation of define)|
 |addition|method name|Your name of the method. We decided to name it addition here, to explain what the method will do.|
