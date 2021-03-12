@@ -43,6 +43,5 @@ Lesson 3: [BlocksAndLoops](/lessons/3-blocks-and-loops.md)
 ### Lesson 4 Practise
 
 Lesson 4: [Practise](/lessons/4-practise.md)
-4-practise
 
 ### Lesson 5 (Under Construction)
