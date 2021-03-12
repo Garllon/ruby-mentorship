@@ -9,7 +9,7 @@
 In this lessons we like shope a little bit on the `death star` ⭐ with VADER DOLLAR 💲.
 For this we will create a shopping list, where we have items we like to buy in there, for example:
 ```
-Orange, Apple, Cucumber, tomato, cheese, shoes, ...
+milk, eggs, sausage, juice, cheese, Lightsaber, Tie-Figther ...
 ```
 
 ## Part 1:
@@ -21,7 +21,7 @@ At the end of the lesson we like to have all of this things in our basket.
 
 ```ruby
 # full shopping list
-shopping_list = ["Orange", "Apple", "Cucumber", "tomato", "cheese", "shoes"]
+shopping_list = ["milk", "eggs", "sausage", "juice", "cheese"]
 
 # empty shopping basket
 shopping_basket = []
@@ -65,9 +65,9 @@ We also like to get the prices of the products to see how much we will pay at th
 <summary>Possible Solution</summary>
 
 ```ruby
-shop_products = { "tomato" => 1.5, "cucumber" => 1.2 }
+shop_products = { "milk" => 1.5, "juice" => 1.2, "cheese" => 1.7 }
 
-shopping_list = ["Orange", "Apple", "Cucumber", "tomato", "cheese", "shoes"]
+shopping_list = ["milk", "eggs", "sausage", "juice", "cheese"]
 shopping_basket = []
 
 not_available_products = []
@@ -83,8 +83,14 @@ shopping_list.each do |shopping_item|
 end
 
 puts "You need to pay: #{total_price} VADER DOLLAR."
+# You need to pay: 4.4 VADER DOLLAR.
+ => nil
 puts "The following items you bought: #{shopping_basket.join(", ")}"
+# The following items you bought: milk, juice, cheese
+ => nil
 puts "The shop has non of these products: #{not_available_products.join(", ")}"
+# The shop has non of these products: eggs, sausage
+ => nil
 ```
 
 
