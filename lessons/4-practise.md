@@ -19,8 +19,6 @@ At the end of the lesson we like to have all of this things in our basket.
 <details>
 <summary>Possible Solution</summary>
 
-Solution with what you learned so far
-
 ```ruby
 # full shopping list
 shopping_list = ["Orange", "Apple", "Cucumber", "tomato", "cheese", "shoes"]
@@ -48,8 +46,6 @@ We also like to get the prices of the products to see how much we will pay at th
 
 <details>
 <summary>Possible Solution</summary>
-
-Solution with what you learned so far
 
 ```ruby
 SHOP_PRODUCTS = { "tomato" => 1.5, "cucumber" => 1.2 }
