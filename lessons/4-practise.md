@@ -44,7 +44,7 @@ hello => Hallo
 day => Tag
 ```
 
-This looks liek this in ruby:
+This looks like this in ruby:
 ```ruby
 { "hello" => "Hallo", "day" => "Tag" }
 ```
@@ -57,6 +57,22 @@ dictonary["hello"]
 => "Hallo"
 ```
 
+If the key your are looking for is not defined, ruby will return `nil`.
+```ruby
+dictonary = { "hello" => "Hallo", "day" => "Tag" }
+dictonary["month"]
+=> nil
+```
+
+|Part|Type|Description|
+|-|-|-|
+|`{`|keyword|Beginning of a hash|
+|"hello"|key|your defined key for a key value pair|
+|`=>`|seperator|lets ruby know that the key ends here and the value comes next ('hash rocket')|
+|"hello"|value|the assigned value to your defined key|
+|`}`|keyword|end of a hash|
+
+The keys and values of hashes can be everything.
 ## Part 2:
 
 We also like to get the prices of the products to see how much we will pay at the end.
