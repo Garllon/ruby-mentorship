@@ -6,7 +6,7 @@
   - [Part 2](#part-2)
 
 ## General
-In this lessons we like shope a little bit.
+In this lessons we like shope a little bit on the `death star` with VADER DOLLAR.
 For this we will create a shopping list, where we have items we like to buy in there, for example:
 ```
 Orange, Apple, Cucumber, tomato, cheese, shoes, ...
