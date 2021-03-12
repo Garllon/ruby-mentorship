@@ -30,10 +30,17 @@ shopping_basket = []
 
 ```ruby
 shopping_list.each do |shopping_item|
-  shopping_basket.add(shopping_item)
+  shopping_basket.push(shopping_item)
 end
 
 puts shopping_basket
+ => ["milk", "eggs", "sausage", "juice", "cheese"]
+# milk
+# eggs
+# sausage
+# juice
+# cheese
+ => nil
 ```
 </details>
 
