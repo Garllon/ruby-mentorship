@@ -9,7 +9,7 @@
 In this lessons we like shope a little bit on the `death star` ⭐ with VADER DOLLAR 💲.
 For this we will create a shopping list, where we have items we like to buy in there, for example:
 ```
-milk, eggs, sausage, juice, cheese, Lightsaber, Tie-Figther ...
+milk, eggs, sausage, juice, cheese, Lightsaber, Tie-Figther, ...
 ```
 
 ## Part 1:
