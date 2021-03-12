@@ -14,7 +14,8 @@ milk, eggs, sausage, juice, cheese, Lightsaber, Tie-Figther, ...
 
 ## Part 1:
 
-At the end of the lesson we like to have all of this things in our basket.
+Imagine you are now in the shop and like to buy all the items on it.
+At the end we like to have all items from our list in our basket.
 
 <details>
 <summary>Possible Solution</summary>
@@ -75,7 +76,13 @@ dictonary["month"]
 The keys and values of hashes can be everything.
 ## Part 2:
 
-We also like to get the prices of the products to see how much we will pay at the end.
+The same situation as in [Part 1](#part-1), but now we also like to now the total price of all items we can buy and also a new list, with items which are not available. Here is a list of products with prices:
+
+- milk => 1.5
+- juice => 1.2
+- chees => 1.7
+
+All prices are of course in VADER DOLLAR.
 
 <details>
 <summary>Possible Solution</summary>
