@@ -9,7 +9,7 @@
 In this lessons we like shope a little bit on the `death star` ⭐ with VADER DOLLAR 💲.
 For this we will create a shopping list, where we have items we like to buy in there, for example:
 ```
-milk, eggs, sausage, juice, cheese, Lightsaber, Tie-Figther, ...
+milk, eggs, sausage, juice, cheese, Lightsaber, TIE Figther, ...
 ```
 
 ## Part 1:
@@ -81,6 +81,8 @@ The same situation as in [Part 1](#part-1), but now we also like to now the tota
 - milk => 1.5
 - juice => 1.2
 - cheese => 1.7
+- eggs => 1
+- sausage => 3.7
 
 All prices are of course in VADER DOLLAR.
 
@@ -88,9 +90,9 @@ All prices are of course in VADER DOLLAR.
 <summary>Possible Solution</summary>
 
 ```ruby
-shop_products = { "milk" => 1.5, "juice" => 1.2, "cheese" => 1.7 }
+shop_products = { "milk" => 1.5, "juice" => 1.2, "cheese" => 1.7, "eggs" => 1, "sausage" => 3.7 }
 
-shopping_list = ["milk", "eggs", "sausage", "juice", "cheese"]
+shopping_list = ["milk", "eggs", "sausage", "juice", "cheese", "Lightsaber", "TIE Figther"]
 shopping_basket = []
 
 not_available_products = []
@@ -105,14 +107,14 @@ shopping_list.each do |shopping_item|
   end
 end
 
-puts "You need to pay: #{total_price} VADER DOLLAR."
-# You need to pay: 4.4 VADER DOLLAR.
+puts "You need to pay: #{total_price} VD (VADER DOLLAR)."
+# You need to pay: 9.0 VD (VADER DOLLAR).
  => nil
 puts "The following items you bought: #{shopping_basket.join(", ")}"
-# The following items you bought: milk, juice, cheese
+# The following items you bought: milk, eggs, sausage, juice, cheese
  => nil
 puts "The shop has non of these products: #{not_available_products.join(", ")}"
-# The shop has non of these products: eggs, sausage
+# The shop has non of these products: Lightsaber, TIE Figther
  => nil
 ```
 
