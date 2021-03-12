@@ -80,7 +80,7 @@ The same situation as in [Part 1](#part-1), but now we also like to now the tota
 
 - milk => 1.5
 - juice => 1.2
-- chees => 1.7
+- cheese => 1.7
 
 All prices are of course in VADER DOLLAR.
 
