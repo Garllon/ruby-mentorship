@@ -1,6 +1,6 @@
 # Lesson 4 - Practise
 
-  - [Gernal](#general)
+  - [General](#general)
   - [Part 1](#part-1)
   - [hashes](#hashes)
   - [Part 2](#part-2)
