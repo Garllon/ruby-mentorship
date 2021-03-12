@@ -16,20 +16,11 @@ Orange, Apple, Cucumber, tomato, cheese, shoes, ...
 
 At the end of the lesson we like to have all of this things in our basket.
 
-## Hashes
-
-What are hashes
-
-## Part 2:
-
-We also like to get the prices of the products to see how much we will pay at the end.
-
 <details>
 <summary>Possible Solution</summary>
 
 Solution with what you learned so far
 
-## Part 1
 ```ruby
 # full shopping list
 shopping_list = ["Orange", "Apple", "Cucumber", "tomato", "cheese", "shoes"]
@@ -45,8 +36,21 @@ end
 
 puts shopping_basket
 ```
+</details>
 
-## Part 2
+## Hashes
+
+What are hashes
+
+## Part 2:
+
+We also like to get the prices of the products to see how much we will pay at the end.
+
+<details>
+<summary>Possible Solution</summary>
+
+Solution with what you learned so far
+
 ```ruby
 SHOP_PRODUCTS = { "tomato" => 1.5, "cucumber" => 1.2 }
 
