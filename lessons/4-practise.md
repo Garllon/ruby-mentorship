@@ -1,18 +1,18 @@
-## Lesson 4 - Practise
+# Lesson 4 - Practise
 
   - [Gernal](#general)
   - [Part 1](#part-1)
   - [hashes](#hashes)
   - [Part 2](#part-2)
 
-### General
+## General
 In this lessons we like shope a little bit.
 For this we will create a shopping list, where we have items we like to buy in there, for example:
 ```
 Orange, Apple, Cucumber, tomato, cheese, shoes, ...
 ```
 
-### Part 1:
+## Part 1:
 
 At the end of the lesson we like to have all of this things in our basket.
 
@@ -20,7 +20,7 @@ At the end of the lesson we like to have all of this things in our basket.
 
 What are hashes
 
-### Part 2:
+## Part 2:
 
 We also like to get the prices of the products to see how much we will pay at the end.
 
