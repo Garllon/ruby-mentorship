@@ -38,7 +38,24 @@ puts shopping_basket
 
 ## Hashes
 
-What are hashes
+What are hashes in Ruby. Think as them as dictionaries or key value stores. Using a key, you can find the related value. For example in a dictonary:
+```
+hello => Hallo
+day => Tag
+```
+
+This looks liek this in ruby:
+```ruby
+{ "hello" => "Hallo", "day" => "Tag" }
+```
+
+The syntax for accessing the hash looks similar to an array. The difference is that with an array we search via index, whereas in a hash we search by key.
+
+```ruby
+dictonary = { "hello" => "Hallo", "day" => "Tag" }
+dictonary["hello"]
+=> "Hallo"
+```
 
 ## Part 2:
 
@@ -48,17 +65,18 @@ We also like to get the prices of the products to see how much we will pay at th
 <summary>Possible Solution</summary>
 
 ```ruby
-SHOP_PRODUCTS = { "tomato" => 1.5, "cucumber" => 1.2 }
+shop_products = { "tomato" => 1.5, "cucumber" => 1.2 }
 
 shopping_list = ["Orange", "Apple", "Cucumber", "tomato", "cheese", "shoes"]
 shopping_basket = []
+
 not_available_products = []
 total_price = 0
 
 shopping_list.each do |shopping_item|
-  if SHOP_PRODUCTS.keys.include?(shopping_item)
+  if shop_products.keys.include?(shopping_item)
     shopping_basket.push(shopping_item)
-    total_price = total_price + SHOP_PRODUCTS[shopping_item]
+    total_price = total_price + shop_products[shopping_item]
   else
     not_available_products.push(shopping_item)
   end
