@@ -4,7 +4,7 @@
 
 - [Lesson 1 - Variables](#lesson-1-variables)
 - [Lesson 2 - Methods](#lesson-2-methods)
-- [Lesson 3 - Blocks and Logs](#lesson-3-blocks-and-loops)
+- [Lesson 3 - Blocks and Loops](#lesson-3-blocks-and-loops)
 - [Lesson 4 - Practise](#lesson-4-practise)
 - [Lesson 5 (Under
   Construction)](#lesson-5-under-construction)
