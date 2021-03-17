@@ -9,7 +9,7 @@
 In this lesson we'd like to shope a little bit on the `death star` ⭐ with VADER DOLLAR 💲.
 For this we will create a shopping list, where we have items we like to buy in there, for example:
 ```
-milk, eggs, sausage, juice, cheese, Lightsaber, TIE Figther, ...
+milk, eggs, sausage, juice, cheese, Lightsaber, TIE Fighter, ...
 ```
 
 ## Part 1:
@@ -99,7 +99,7 @@ All prices are of course in VADER DOLLAR.
 ```ruby
 shop_products = { "milk" => 1.5, "juice" => 1.2, "cheese" => 1.7, "eggs" => 1, "sausage" => 3.7 }
 
-shopping_list = ["milk", "eggs", "sausage", "juice", "cheese", "Lightsaber", "TIE Figther"]
+shopping_list = ["milk", "eggs", "sausage", "juice", "cheese", "Lightsaber", "TIE Fighter"]
 shopping_basket = []
 
 not_available_products = []
@@ -121,7 +121,7 @@ puts "The following items you bought: #{shopping_basket.join(", ")}"
 # The following items you bought: milk, eggs, sausage, juice, cheese
  => nil
 puts "The shop has non of these products: #{not_available_products.join(", ")}"
-# The shop has non of these products: Lightsaber, TIE Figther
+# The shop has non of these products: Lightsaber, TIE Fighter
  => nil
 ```
 
