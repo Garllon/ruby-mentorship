@@ -32,9 +32,9 @@ shopping_basket = []
 shopping_list.each do |shopping_item|
   shopping_basket.push(shopping_item)
 end
+ => ["milk", "eggs", "sausage", "juice", "cheese"]
 
 puts shopping_basket
- => ["milk", "eggs", "sausage", "juice", "cheese"]
 # milk
 # eggs
 # sausage
