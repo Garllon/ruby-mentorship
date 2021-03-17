@@ -33,6 +33,8 @@ shopping_list.each do |shopping_item|
   shopping_basket.push(shopping_item)
 end
  => ["milk", "eggs", "sausage", "juice", "cheese"]
+# The '.each' is returning the list you looped over as return value.
+# Check the documenation for the behaviour of other loops. [array#method-i-each](https://rubyapi.org/2.7/o/array#method-i-each)
 
 puts shopping_basket
 # milk
@@ -46,7 +48,7 @@ puts shopping_basket
 
 ## Hashes
 
-What are hashes in Ruby. Think as them as dictionaries or key value stores. Using a key, you can find the related value. For example in a dictonary:
+What are hashes in Ruby. Think of them as dictionaries or key value stores. Using a key, you can find the related value. For example in a dictonary:
 ```
 hello => Hallo
 day => Tag
