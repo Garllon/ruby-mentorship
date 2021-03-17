@@ -1,4 +1,4 @@
-# Lesson 3 - Loops and Blocks
+# Lesson 3 - Blocks and Loops
 
   - [Dot Operator](#dot-operator)
   - [Practice Time](#practice-time)

@@ -4,9 +4,10 @@
 
 - [Lesson 1 - Variables](#lesson-1-variables)
 - [Lesson 2 - Methods](#lesson-2-methods)
-- [Lesson 3 - Blocks and Logs](#lesson-3-blocks-and-loops)
-- [Lesson 4 (Under
-  Construction)](#lesson-4-under-construction)
+- [Lesson 3 - Blocks and Loops](#lesson-3-blocks-and-loops)
+- [Lesson 4 - Practise](#lesson-4-practise)
+- [Lesson 5 (Under
+  Construction)](#lesson-5-under-construction)
 
 ## General
 
@@ -39,4 +40,8 @@ Lesson 2: [Methods](/lessons/2-methods.md)
 
 Lesson 3: [BlocksAndLoops](/lessons/3-blocks-and-loops.md)
 
-### Lesson 4 (Under Construction)
+### Lesson 4 Practise
+
+Lesson 4: [Practise](/lessons/4-practise.md)
+
+### Lesson 5 (Under Construction)
