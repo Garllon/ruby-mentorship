@@ -33,8 +33,6 @@ shopping_list.each do |shopping_item|
   shopping_basket.push(shopping_item)
 end
  => ["milk", "eggs", "sausage", "juice", "cheese"]
-# The '.each' is returning the list you looped over as return value.
-# Check the documenation for the behaviour of other loops. [array#method-i-each](https://rubyapi.org/2.7/o/array#method-i-each)
 
 puts shopping_basket
 # milk
@@ -44,6 +42,11 @@ puts shopping_basket
 # cheese
  => nil
 ```
+
+
+The `.each` is returning the list you looped over as return value.
+Check the documenation for the behaviour of other loops. 
+[array#method-i-each](https://rubyapi.org/2.7/o/array#method-i-each)
 </details>
 
 ## Hashes
