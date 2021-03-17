@@ -125,8 +125,8 @@ puts "You need to pay: #{total_price} VD (VADER DOLLAR)."
 puts "You bought the following items: #{shopping_basket.join(", ")}"
 # You bought the following items: milk, eggs, sausage, juice, cheese
  => nil
-puts "The shop has none of these products: #{not_available_products.join(", ")}"
-# The shop has none of these products: Lightsaber, TIE Fighter
+puts "The shop has none of these products: #{not_available_products.join(", ")} :("
+# The shop has none of these products: Lightsaber, TIE Fighter :(
  => nil
 ```
 
