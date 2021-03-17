@@ -1,9 +1,9 @@
 # Lesson 4 - Practise
 
   - [General](#general)
-  - [Part 1](#part-1)
+  - [Going Shopping](#going-shopping)
   - [hashes](#hashes)
-  - [Part 2](#part-2)
+  - [Cashing Out](#cashing-out)
 
 ## General
 In this lesson we'd like to shope a little bit on the `death star` ⭐ with VADER DOLLAR 💲.
@@ -12,9 +12,9 @@ For this we will create a shopping list, where we have items we like to buy in t
 milk, eggs, sausage, juice, cheese, Lightsaber, TIE Fighter, ...
 ```
 
-## Part 1:
+## Going Shopping:
 
-Imagine you are now in the shop and like to buy all the items on it.
+Imagine you are now in the shop and like to buy all the items on your list.
 At the end we like to have all items from our list in our basket.
 
 <details>
@@ -81,7 +81,7 @@ dictonary["month"]
 |`}`|keyword|end of a hash|
 
 The keys and values of hashes can be everything.
-## Part 2:
+## Cashing out:
 
 The same situation as in [Part 1](#part-1), but now we also like to now the total price of all items we can buy and also a new list, with items which are not available. Here is a list of products with prices:
 
