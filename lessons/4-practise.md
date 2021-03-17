@@ -2,7 +2,7 @@
 
   - [General](#general)
   - [Going Shopping](#going-shopping)
-  - [hashes](#hashes)
+  - [Hashes](#hashes)
   - [Cashing Out](#cashing-out)
 
 ## General
