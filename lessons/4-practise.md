@@ -88,7 +88,7 @@ dictonary["month"]
 The keys and values of hashes can be everything.
 ## Cashing out:
 
-The same situation as in [Going Shopping](#going-shopping), but now we also like to now the total price of all items we can buy and also a new list, with items which are not available. Here is a list of products with prices:
+The same situation as in [Going Shopping](#going-shopping), but now we also like to know the total price of all items we can buy and also a new list, with items which are not available. Here is a list of products with prices:
 
 - milk => 1.5
 - juice => 1.2
@@ -96,7 +96,7 @@ The same situation as in [Going Shopping](#going-shopping), but now we also like
 - eggs => 1
 - sausage => 3.7
 
-All prices are of course in VADER DOLLAR.
+All prices are of course in VADER DOLLAR 💲.
 
 <details>
 <summary>Possible Solution</summary>
