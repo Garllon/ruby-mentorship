@@ -6,8 +6,9 @@
 - [Lesson 2 - Methods](#lesson-2-methods)
 - [Lesson 3 - Blocks and Loops](#lesson-3-blocks-and-loops)
 - [Lesson 4 - Practise](#lesson-4-practise)
-- [Lesson 5 (Under
-  Construction)](#lesson-5-under-construction)
+- [Lesson 5 - Write and use files](#lesson-5-write-and-use-files)
+- [Lesson 6 (Under
+  Construction)](#lesson-6-under-construction)
 
 ## General
 
@@ -44,4 +45,8 @@ Lesson 3: [BlocksAndLoops](/lessons/3-blocks-and-loops.md)
 
 Lesson 4: [Practise](/lessons/4-practise.md)
 
-### Lesson 5 (Under Construction)
+### Lesson 5 Write and use files
+
+Lesson 5: [Write and use files](lessons/5-write-and-use-files.md)
+
+### Lesson 6 (Under Construction)
