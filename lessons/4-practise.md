@@ -149,3 +149,5 @@ the information available about the new monitor that should eventually be placed
 *Bonus 1: Assume the diagonal is given in inches and return the minimum width in centimeters*
 
 *Bonus 2: Extend your method so that it also works when more than one monitor should be placed on the desk*
+
+[Possible Solution](/lessons/examples/lesson-4-homework.rb)
