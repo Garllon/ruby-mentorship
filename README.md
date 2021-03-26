@@ -21,8 +21,8 @@ We are starting with the setup and then go from lesson to lesson.
 
 ## Setup
 
-- [For MacOS and Windows User](https://github.com/Garllon/mentorship/blob/Update-setup/lessons/setup.md#for-macos-and-windows-user)
-- [For Linux User](https://github.com/Garllon/mentorship/blob/Update-setup/lessons/setup.md#for-linux-user)
+- [For MacOS and Windows User](/lessons/setup.md#for-macos-and-windows-user)
+- [For Linux User](/lessons/setup.md#for-linux-user)
 
 ### Lesson 1 Variables
 
