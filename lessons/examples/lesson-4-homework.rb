@@ -12,7 +12,7 @@ end
 
 calculcate_width(32 ,16, 9)
 
-## Extra Part
+## Bonus 1
 
 ## with transform from inch to centimeter
 def calculcate_width(diagonal, ratio_width, ratio_height)
@@ -27,6 +27,8 @@ def calculcate_width(diagonal, ratio_width, ratio_height)
 end
 
 calculcate_width(32 ,16, 9)
+
+## Bonus 2
 
 # with a count of monitor
 def calculcate_width(diagonal, ratio_width, ratio_height, monitor_count)
