@@ -4,13 +4,12 @@
 2. We created a file named: [`lesson-5.rb`](/lessons/examples/lesson-5.rb)
 
 3. Then open the file in your preferred editor. We recommend again [Atom](https://atom.io). :)
-
-We added the following for example:
-```ruby
-puts "Hello World"
-```
+   We added the following for example:
+   ```ruby
+   puts "Hello World"
+   ```
 
 4. Now run your container as always and type:
-```shell
-ruby lesson-5.rb
-```
+   ```shell
+   ruby lesson-5.rb
+   ```
