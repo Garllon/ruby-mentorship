@@ -1,4 +1,4 @@
-## Basic soltion
+## Basic solution
 def calculcate_width(diagonal, ratio_width, ratio_height)
   # Calculate squared hypotenuse
   squared_ratio_diagonal = ratio_width**2 + ratio_height**2
