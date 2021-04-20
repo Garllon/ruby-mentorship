@@ -39,4 +39,8 @@ Lesson 4: [Practise](/lessons/4-practise.md)
 
 Lesson 5: [Write and use files](lessons/5-write-and-use-files.md)
 
-## Lesson 6 (Under Construction)
+## Lesson 6 Another round of practice
+
+Lesson 6: [Practice](lessons/6-practice.md)
+
+## Lesson 7 (Under Construction)
