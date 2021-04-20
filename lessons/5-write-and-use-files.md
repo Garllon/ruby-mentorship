@@ -33,9 +33,13 @@ The user confirms the input by pressing the enter key. Since the enter key also 
 
 Keep in mind that `gets` returns a string. ;)
 
-### Practice time
+### Homework
 
-Write a simple command line program. That's it!
+Write an interactive ruby program that processes user input (e.g. via the gets method). It should live in its own file (e.g. homework.rb) and can be executed like `ruby homework.rb` inside our container.
+Bonus 1:
+Use method(s)
+Bonus 2:
+Use loops and allow the user to decide when to exit the program
 
 If you're lacking inspiration try to write a small addition trainer. ➕
   
