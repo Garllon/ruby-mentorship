@@ -43,4 +43,8 @@ Lesson 5: [Write and use files](lessons/5-write-and-use-files.md)
 
 Lesson 6: [Practice](lessons/6-practice.md)
 
-## Lesson 7 (Under Construction)
+## Lesson 7 Revisiting Strings and Hashes
+
+Lesson 7: [Revisiting Strings and Hashes](lessons/7-revisiting-strings-and-hashes.md)
+
+## Lesson 8 (Under Construction)
