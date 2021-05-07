@@ -46,3 +46,26 @@ name = 'Darth Vader'
 puts 'Hello #{name}'
 Hello #{name}
 ```
+
+## Symbols
+
+Symbols looks a little bit like Strings: `:hello`,
+but there are some difference, for example can a symbol not contain any spaces or non alpanumeric characters. So this is not possible:
+```ruby
+:hello world
+SyntaxError ((irb):25: syntax error, unexpected tIDENTIFIER, expecting end-of-input)
+:hello world
+       ^~~~~
+```
+Underscores(\_) are commonly used for symbols, as replacment for whitespaces. The keyword this is [snake_case](https://en.wikipedia.org/wiki/Snake_case) So it will look oike this, for example:
+```ruby
+:hello_world
+```
+
+When the text code is then we use symbols, when the text data is then we use a string.
+
+```ruby
+shopping_list = { bread: 'half' }
+```
+
+These makes hashes easier to read and write, because you don't need to use fancy hash rockets.
