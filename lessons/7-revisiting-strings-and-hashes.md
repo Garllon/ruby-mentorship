@@ -7,7 +7,7 @@
 
 ## Single Quotes and Double Quotes
 
-Do you see the differene between:
+Do you see the difference between:
 ```ruby
 puts 'Hello World!'
 Hello World!
