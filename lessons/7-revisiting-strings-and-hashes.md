@@ -53,7 +53,7 @@ Hello \nDarth Vader
 ## Symbols
 
 Symbols looks a little bit like Strings: `:hello`,
-but there are some difference, for example can a symbol not contain any spaces or non alpanumeric characters. So this is not possible:
+but there are some differences, for example can a symbol not contain any spaces or non alpanumeric characters. So this is not possible:
 ```ruby
 :hello world
 SyntaxError ((irb):25: syntax error, unexpected tIDENTIFIER, expecting end-of-input)
