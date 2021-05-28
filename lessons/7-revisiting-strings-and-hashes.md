@@ -1,4 +1,4 @@
-# Lesson 7
+# Lesson 7 - Revisiting strings and hashes
 
   - [Single Quotes and Double Quotes](#single-quotes-and-double-quotes)
   - [String Interpolation](#string-interpolation)
