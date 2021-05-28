@@ -65,7 +65,7 @@ Underscores(\_) are commonly used for symbols, as replacment for whitespaces. Th
 :hello_world
 ```
 
-When the text code is then we use symbols, when the text data is then we use a string.
+When the text is code then we use symbols, when the text is data then we use a string.
 
 ```ruby
 shopping_list = { bread: 'half' }
