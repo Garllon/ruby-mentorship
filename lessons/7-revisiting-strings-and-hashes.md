@@ -60,7 +60,7 @@ SyntaxError ((irb):25: syntax error, unexpected tIDENTIFIER, expecting end-of-in
 :hello world
        ^~~~~
 ```
-Underscores(\_) are commonly used for symbols, as replacment for whitespaces. The keyword this is [snake_case](https://en.wikipedia.org/wiki/Snake_case) So it will look oike this, for example:
+Underscores(\_) are commonly used for symbols, as replacement for whitespaces. The keyword here is [snake_case](https://en.wikipedia.org/wiki/Snake_case) So it will look like this, for example:
 ```ruby
 :hello_world
 ```
