@@ -46,46 +46,28 @@ TL;DR: Use `require` when specifying a full path (from the root of your file sys
 
 Given the files
 
-
 ```ruby
-# delivery.rb
-require_relative 'shop'
-new_items = ["milk", "eggs", "sausage", "juice", "cheese"]
-
-def order_item(item)
-  puts "Ordering #{item}"
-  new_items.push(item)
-end
-
-def deliver_item
-  new_items.each do |item|
-    add_new_item(item)
-  end
+# basic_greeter.rb
+def greet(name)
+  "Hi #{name}!"
 end
 ```
 
 ```ruby
-# shop.rb
-require_relative 'delivery'
-shopping_list = ["milk", "eggs", "sausage", "juice", "cheese"]
+# star_wars_greeter.rb
+require_relative 'basic_greeter'
 
-def add_new_item(item)
-  shopping_list.push(item)
-end
-
-def pick_item(item)
-  if shopping_list.include?(item)
-    return shopping_list.delete(item)
-  else
-    order_item(item)
-  end
+def wookie_greet(name)
+  puts greet(name) + "Yuow"
 end
 ```
 
 ```ruby
-# basket.rb
-require_relative 'shop'
+# greeter.rb
+require_relative 'star_wars_greeter'
 
-my_basket = []
-my_basket.push(pick_item('banana'))
+wookie_greet('Han') # using a method from the star_wars_greeter.rb
+greet('Vader') # using a method from the basic_greeter.rb
 ```
+
+Requiring code from other code works in a transitive fashion. Therefore any files that are required by a file that is already being required are available as well. So there is no need to require all the pieces individually if they already require each other, e.g. in a chain.
