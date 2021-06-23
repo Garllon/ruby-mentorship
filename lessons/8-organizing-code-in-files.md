@@ -71,3 +71,7 @@ greet('Vader') # using a method from the basic_greeter.rb
 ```
 
 Requiring code from other code works in a transitive fashion. Therefore any files that are required by a file that is already being required are available as well. So there is no need to require all the pieces individually if they already require each other, e.g. in a chain.
+
+### Overriding methods
+
+Be careful ⚠️: When two files have a method with the same name and both are required in another file then the method will only be available once. Which variant ends up becoming available depends on the order in which the files are required and if they are required before or after a duplicated method is defined.
