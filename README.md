@@ -47,4 +47,8 @@ Lesson 6: [Practice](lessons/6-practice.md)
 
 Lesson 7: [Revisiting Strings and Hashes](lessons/7-revisiting-strings-and-hashes.md)
 
-## Lesson 8 (Under Construction)
+## Lesson 8 Organizing Code in Files
+
+Lesson 8: [Organizing Code in Files](lessons/8-organizing-code-in-files.md)
+
+## Lesson 9 (Under Construction)
