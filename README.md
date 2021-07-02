@@ -51,4 +51,8 @@ Lesson 7: [Revisiting Strings and Hashes](lessons/7-revisiting-strings-and-hashe
 
 Lesson 8: [Organizing Code in Files](lessons/8-organizing-code-in-files.md)
 
-## Lesson 9 (Under Construction)
+## Lesson 9 Object orientation
+
+Lesson 9: [Object orientation](lessons/lesson-9-object-orientation.md)
+
+## Lesson 10 (Under Construction)
