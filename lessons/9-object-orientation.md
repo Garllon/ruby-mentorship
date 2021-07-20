@@ -3,9 +3,10 @@
 ## Classes
 
 In many programming languages there are classes which define the properties of their instances, also known as objects.
-Think of a class like a template and an object as a specific thing of a certain class. For example we could define a class
+Think of a class like a template or blueprint and an object as a specific thing of a certain class. For example we could define a class
 called `Hardware` and one instance of this class could be a laptop. People are using different laptops,
 but all of them are a kind of `Hardware`.
+Another way to classify things is to think of classes as nouns (e.g. `Hardware`) since they tell you what things are and method as verbs, because they ususally make something do something.
 
 In ruby a class is defined as follows:
 
@@ -55,11 +56,15 @@ laptop = Hardware.new(10)
 laptop.weight # => 10
 laptop.weight=(5)
 laptop.weight # => 5
+laptop.weight = 3
+laptop.weight # => 3
 ```
 
-`laptop.weight = 5` is just a fancy way of calling `laptop.weight=(5)`.
+`laptop.weight = 3` is just a fancy way of calling `laptop.weight=(5)`.
 This is also how methods ending in `=` are usually called.
 Calling the method this way makes it more look like a variable is being set that just happens to belong to an instance.
+
+Classes can also help to organize code, e.g. by grouping code that revolves around the same topic into the same class.
 
 ## Objects
 
@@ -70,7 +75,7 @@ laptop1 = Hardware.new(5)
 laptop1.weight # => 5
 ```
 
-Every class implicitly has a `new` method. Counter-intuitively to implement it the for it needs to
+Every class implicitly has a `new` method. Counter-intuitively to implement it the code for it needs to
 go into a method called `initialize`. Ruby magically directs a call of `new` on a class to its `initialize` method.
 
 Each instance of a class can be considered independent of its likes:
