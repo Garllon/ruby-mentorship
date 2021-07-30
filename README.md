@@ -9,17 +9,22 @@ We are starting with the setup and then go from lesson to lesson.
 
 * The sessions are loosely based on http://ruby-for-beginners.rubymonstas.org
 * You can look up methods and their documentation on https://rubyapi.org/2.7
+* We are using the following website for the start: https://replit.com/languages/ruby
 
-## Setup
+## Advanced Setup
 
 - [For MacOS and Windows User](/lessons/setup.md#for-macos-and-windows-user)
 - [For Linux User](/lessons/setup.md#for-linux-user)
 
-## Lesson 1 Variables
+## Lesson 1 - Variables/Variablen
 
 We are explaining what variables are and how to use them:
 
-Lesson 1: [Variables](/lessons/1-variables.md)
+[English Version](/lessons/1-variables.md#english)
+
+Wir schauen uns an was Variablen sind und wie man diese benutzt:
+
+[Deutsche Version](/lessons/1-variables.md#german)
 
 Example: [Ruby - Variables](/lessons/examples/1_variables.rb)
 
