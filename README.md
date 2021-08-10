@@ -28,9 +28,15 @@ Wir schauen uns an was Variablen sind und wie man diese benutzt:
 
 Example: [Ruby - Variables](/lessons/examples/1_variables.rb)
 
-## Lesson 2 Methods
+## Lesson 2 - Methods
 
-Lesson 2: [Methods](/lessons/2-methods.md)
+We continue looking into data types and start with methods.
+
+[English Version](/lessons/2-methods.md#english)
+
+Wir schauen uns weitere Datentypen an und fangen mit Methoden an.
+
+[Deutsche Version](/lessons/2-methods.md#german)
 
 ## Lesson 3 Blocks and Loops
 
