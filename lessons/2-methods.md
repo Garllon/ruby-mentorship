@@ -146,9 +146,9 @@ puts add_two(3)
   - [Hausaufgaben(Optional)](#hausaufgabenoptional)
 
 
-### DataTypen Fortsetzung
+### Datentypen Fortsetzung
 
-Der erste Teil zu Datentypen befindet sich hier:  [DataTypen](/lessons/1-variables.md#datentypen)
+Der erste Teil zu Datentypen befindet sich hier:  [Datentypen](/lessons/1-variables.md#datentypen)
 
 #### Boolean
 
