@@ -141,7 +141,7 @@ puts add_two(3)
     - [Boolean](#boolean)
   - [Methoden](#methoden)
     - [Allgemein](#allgemein)
-    - [Rückgabewerte](#rückgabewertreturn-value)
+    - [Rückgabewert](#rückgabewertreturn-value)
     - [Mehr Spass mit Methoden](#mehr-spass-mit-methoden)
   - [Hausaufgaben(Optional)](#hausaufgabenoptional)
 
