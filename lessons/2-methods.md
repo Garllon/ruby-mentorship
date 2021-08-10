@@ -104,6 +104,47 @@ test
 Here we call the predefined method `puts` with the parameter `"test"`. It is printing out the parameter and then returns `nil`.
 The `irb` is displaying the return value with a `=>`([hash rocket](https://en.wikipedia.org/wiki/Fat_comma#Ruby)) prefix.
 
+By default ruby returns the last value in a method.
+These two are equivalent.
+
+with `return` keyword: 
+```ruby
+def six
+  a = 6
+  return a
+end
+
+## call the method
+six
+=> 6
+```
+
+without `return` keyword, default last value of method.
+```ruby
+# this
+
+def six
+  a = 6
+  a
+end
+
+## call the method
+six
+=> 6
+```
+
+Leaving out the `return` keyword is encouraged whenever possible. Usally the `return` keyword is used to exit a method early.
+
+```ruby
+def six(number)
+  if number == 6
+    return "Yeah it is a six."
+  end
+  
+  "Sadly no six." 
+end
+```
+
 #### More fun with methods
 
 What do you think is the outcome of this code:
@@ -240,6 +281,47 @@ test
 
 Hier rufen wir die vordefinierte Methode `puts` mit dem Eingabewert `"test"`
 Die `irb` zeigt die Rückgabewerte hinter einer `=>`([hash rocket](https://en.wikipedia.org/wiki/Fat_comma#Ruby)).
+
+Standardmäßig gibt ruby den letzten Wert der Methode zurück.
+Die folgenden Codebeispiele liefern das gleiche Ergebnis:
+
+mit `return` Schlüsselwort(keyword): 
+```ruby
+def six
+  a = 6
+  return a
+end
+
+## rufe die Methode auf
+six
+=> 6
+```
+
+ohne `return` Schlüsselwort(keyword), standardmäßig der letzte Wert der Methode.
+```ruby
+# this
+
+def six
+  a = 6
+  a
+end
+
+## rufe die Methode auf
+six
+=> 6
+```
+
+Typischerweise lässt man das `return` Schlüsselwort am Ende der Methode weg. Üblicherweise wird es benutzt wenn man die Methode früher verlassen will.
+
+```ruby
+def six(number)
+  if number == 6
+    return "Yeah, es ist eine sechs."
+  end
+  
+  "Leider keine sechs." 
+end
+```
 
 #### Mehr Spass mit Methoden
 
