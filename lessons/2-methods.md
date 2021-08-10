@@ -141,9 +141,9 @@ puts add_two(3)
     - [Boolean](#boolean)
   - [Methoden](#methoden)
     - [Allgemein](#allgemein)
-    - [Return values](#rückgabewerte-return-values)
+    - [Rückgabewerte](#rückgabewertereturn-values)
     - [Mehr Spass mit Methoden](#mehr-spass-mit-methoden)
-  - [Hausaufgaben(Optional)](#hausaufgaben-Optional)
+  - [Hausaufgaben(Optional)](#hausaufgabenoptional)
 
 
 ### DataTypen Fortsetzung
