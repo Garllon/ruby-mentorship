@@ -6,7 +6,7 @@
     - [Boolean](#boolean)
   - [Methods](#methods)
     - [General](#general)
-    - [Return values](#return-values)
+    - [Return value](#return-value)
     - [More fun with methods](#more-fun-with-methods)
   - [Homework](#homework)
 
@@ -92,16 +92,16 @@ addition(1, 5)
 => 6
 ```
 
-#### Return values
+#### Return value
 
 Every method returns a value as you have already seen above by the keyword `return`. For example our `puts`, what we used in a previous session.
 ```ruby
-puts('test')
+puts("test")
 test
 => nil
 ```
 
-Here we call the predefined method `puts` with the parameter `'test'`. It is printing out the parameter and then return `nil`.
+Here we call the predefined method `puts` with the parameter `"test"`. It is printing out the parameter and then returns `nil`.
 The `irb` is displaying the return value with a `=>`([hash rocket](https://en.wikipedia.org/wiki/Fat_comma#Ruby)) prefix.
 
 #### More fun with methods
@@ -141,14 +141,14 @@ puts add_two(3)
     - [Boolean](#boolean)
   - [Methoden](#methoden)
     - [Allgemein](#allgemein)
-    - [Return values](#return-values)
-    - [More fun with methods](#more-fun-with-methods)
-  - [Homework](#homework)
+    - [Return values](#rückgabewerte-return-values)
+    - [Mehr Spass mit Methoden](#mehr-spass-mit-methoden)
+  - [Hausaufgaben(Optional)](#hausaufgaben-Optional)
 
 
 ### DataTypen Fortsetzung
 
-Der erste Teil zu Datentypen befindet sich hier:  [DataTypen](lessons/1-variables.md#datentypen)
+Der erste Teil zu Datentypen befindet sich hier:  [DataTypen](/lessons/1-variables.md#datentypen)
 
 #### Boolean
 
@@ -229,21 +229,21 @@ addition(1, 5)
 => 6
 ```
 
-#### Return values
+#### Rückgabewert(Return Value)
 
-Every method returns a value as you have already seen above by the keyword `return`. For example our `puts`, what we used in a previous session.
+Jede Methode hat einen Rückgabewert(Return value) wie du bereits oben mit dem Schlüsselwort(keyword) `return` gesehen hast. Zum Beispiel unser `puts` was wir bereits benutzt haben.
 ```ruby
-puts('test')
+puts("test")
 test
 => nil
 ```
 
-Here we call the predefined method `puts` with the parameter `'test'`. It is printing out the parameter and then return `nil`.
-The `irb` is displaying the return value with a `=>`([hash rocket](https://en.wikipedia.org/wiki/Fat_comma#Ruby)) prefix.
+Hier rufen wir die vordefinierte Methode `puts` mit dem Eingabewert `"test"`
+Die `irb` zeigt die Rückgabewerte hinter einer `=>`([hash rocket](https://en.wikipedia.org/wiki/Fat_comma#Ruby)).
 
-#### More fun with methods
+#### Mehr Spass mit Methoden
 
-What do you think is the outcome of this code:
+Was denkst du kommt hier am Ende raus:
 ```ruby
 def add_one(number)
   number + 1
@@ -266,6 +266,6 @@ puts add_two(3)
 
 </details>
 
-### Homework
+### Hausaufgaben(Optional)
 
 [CodeWars - Can we divide it?](https://www.codewars.com/kata/5a2b703dc5e2845c0900005a/train/ruby)
