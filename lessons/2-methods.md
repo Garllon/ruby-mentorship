@@ -13,7 +13,7 @@
 
 ### DataTypes Continued
 
-The first part of DataTypes you can find here:  [DataType](lessons/1-variables.md#datatypes)
+The first part of DataTypes you can find here:  [DataType](/lessons/1-variables.md#datatypes)
 
 #### Boolean
 
