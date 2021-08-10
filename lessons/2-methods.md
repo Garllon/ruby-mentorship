@@ -340,7 +340,7 @@ puts add_two(3)
 ```
 
 <details>
-<summary>Result</summary>
+<summary>Auflösung</summary>
 
 ```ruby
 5
