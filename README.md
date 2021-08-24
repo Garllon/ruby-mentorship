@@ -38,9 +38,15 @@ Wir schauen uns weitere Datentypen an und fangen mit Methoden an.
 
 [Deutsche Version](/lessons/2-methods.md#german)
 
-## Lesson 3 Blocks and Loops
+## Lesson 3 - Blocks and Loops
 
-Lesson 3: [BlocksAndLoops](/lessons/3-blocks-and-loops.md)
+We learn how to iterate as well as what blocks are
+
+[English Version](/lessons/3-blocks-and-loops.md#english)
+
+Wir lernen wie man ein Array durchläuft und was Blöcke sind
+
+[Deutsche Version](/lessons/3-blocks-and-loops.md#german)
 
 ## Lesson 4 Practise
 
