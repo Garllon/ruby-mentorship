@@ -95,10 +95,10 @@ end
 # German
 ## Lesson 3 - Blöcke und Schleifen
 
-  - [Dot Operator](#dot-operator)
-  - [Practice Time](#practice-time)
-  - [Loops and Blocks](#loops-and-blocks)
-    - [each](#each)
+  - [Dot Operator](#dot-operator-1)
+  - [Practice Time](#und-jetzt-du)
+  - [Loops and Blocks](#schleifen-und-blöcke)
+    - [each](#each-1)
 
 ### Dot Operator
 
