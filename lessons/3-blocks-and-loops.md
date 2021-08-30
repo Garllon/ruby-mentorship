@@ -152,7 +152,7 @@ end
 
 #### each
 
-Mit der Methode [`each`](https://rubyapi.org/2.7/o/array#method-i-each) kann beispielsweise ein Array von Integern(Ganzzahlen) durchlaufen werden
+Mit der Methode [`each`](https://rubyapi.org/2.7/o/array#method-i-each) kann beispielsweise ein Array von Integern(Ganzzahlen) durchlaufen werden.
 ```ruby
 [1, 2, 3, 4, 5].each do |number|
   puts "Dies ist Durchlauf Nummer #{number}"
