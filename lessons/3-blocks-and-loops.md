@@ -121,7 +121,7 @@ Hier sind ein paar Lösungen falls du feststecken solltest:
 <details>
 <summary>Mögliche Lösungen</summary>
 
-Eine Lösung mit den bisher gelernten Werkzeugen
+Eine Lösung mit den bisher gelernten Werkzeugen:
 
 ```ruby
 def even_or_odd(number)
