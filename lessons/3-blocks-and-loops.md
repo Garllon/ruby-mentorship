@@ -102,7 +102,7 @@ end
 
 ### Dot Operator
 
-Mit dem `.` operator können Methoden auf etwas aufgerufen werden: 
+Mit dem `.` Operator können Methoden auf etwas aufgerufen werden: 
 ```ruby
 [6,2,4].length
 
