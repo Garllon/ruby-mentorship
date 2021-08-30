@@ -159,7 +159,7 @@ Mit der Methode [`each`](https://rubyapi.org/2.7/o/array#method-i-each) kann bei
 end
 
 # Output
-Dies ist Durchlauf Nummer is 1
+Dies ist Durchlauf Nummer 1
 Dies ist Durchlauf Nummer is 2
 Dies ist Durchlauf Nummer is 3
 Dies ist Durchlauf Nummer is 4
