@@ -176,7 +176,7 @@ Dies ist Durchlauf Nummer 5
 |`do`|Keyword|Anfang eines Blocks, equivalent zu `{`|
 |`\|number\|`|Variablendefinition|Diese Variable wird in jeder Iteration(Durchlauf) den Wert des aktuellen Elements enthalten|
 |`puts "Dies ist Durchlauf Nummer #{number}"`|Die eigentliche Definition des Blocks|Hier wird bestimmt was mit jedem Element passieren soll|
-|`end`|Keyword|Kkeyword um einen Block zu schließen, equivalent zu `}`|
+|`end`|Keyword|Keyword um einen Block zu schließen, equivalent zu `}`|
 
 Derselbe Block von vorher in zwei Varianten die dasselbe tun:
 ```ruby
