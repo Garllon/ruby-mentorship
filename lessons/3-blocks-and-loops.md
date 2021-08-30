@@ -138,7 +138,7 @@ Oder wir benutzen eine Methode die Ruby bereits definiert hat: [even?](https://r
 
 ```ruby
 def even_or_odd(number)
-  # Ruby die Logik der ersten Lösung bereits implementiert, siehe obiger Link.
+  # Ruby hat die Logik der ersten Lösung bereits implementiert, siehe obiger Link.
   if(number.even?)
     return 'Even'
   end
