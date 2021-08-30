@@ -1,11 +1,12 @@
-# Lesson 3 - Blocks and Loops
+# English
+## Lesson 3 - Blocks and Loops
 
   - [Dot Operator](#dot-operator)
   - [Practice Time](#practice-time)
   - [Loops and Blocks](#loops-and-blocks)
     - [each](#each)
 
-## Dot Operator
+### Dot Operator
 
 We call a method on something. 
 ```ruby
@@ -17,7 +18,7 @@ We call a method on something.
 
 We call the [`length`](https://rubyapi.org/2.7/o/array#method-i-length) method on an array. 
 
-## Practice Time
+### Practice Time
 
 [Even or Odd - Codewars](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
 
@@ -52,9 +53,9 @@ end
 
 </details>
 
-## Loops and Blocks
+### Loops and Blocks
 
-### each
+#### each
 
 Loop with the [`each`](https://rubyapi.org/2.7/o/array#method-i-each) over an array of numbers(Integers)
 ```ruby
@@ -90,3 +91,99 @@ end
 # or
 [1, 2, 3, 4, 5].each { |number| puts "Current iteration number is: #{number}" }
 ```
+
+# German
+## Lesson 3 - Blöcke und Schleifen
+
+  - [Dot Operator](#dot-operator-1)
+  - [Practice Time](#und-jetzt-du)
+  - [Loops and Blocks](#schleifen-und-blöcke)
+    - [each](#each-1)
+
+### Dot Operator
+
+Mit dem `.` Operator können Methoden auf etwas aufgerufen werden: 
+```ruby
+[6,2,4].length
+
+# Rückgabewert
+=> 3
+```
+
+Hier wird die [`length`](https://rubyapi.org/2.7/o/array#method-i-length) Methode auf einem Array(Liste) aufgerufen.
+Sie hat als Rückgabewert die Anzahl der Elemente die sich im Array befinden.
+
+### Und jetzt du!
+
+[Even or Odd - Codewars](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
+
+Hier sind ein paar Lösungen falls du feststecken solltest:
+<details>
+<summary>Mögliche Lösungen</summary>
+
+Eine Lösung mit den bisher gelernten Werkzeugen:
+
+```ruby
+def even_or_odd(number)
+  # Berechne den Rest der Division number / 2,
+  # Wenn der Rest 0 ist muss number gerade sein, ansonsten ungerade.
+  if(number % 2 == 0)
+    'Even'
+  else
+    'Odd'
+  end
+end
+```
+Oder wir benutzen eine Methode die Ruby bereits definiert hat: [even?](https://rubyapi.org/2.7/o/integer#method-i-even-3F)
+
+```ruby
+def even_or_odd(number)
+  # Ruby hat die Logik der ersten Lösung bereits implementiert, siehe obiger Link.
+  if(number.even?)
+    return 'Even'
+  end
+  'Odd'
+end
+```
+
+</details>
+
+### Schleifen und Blöcke
+
+#### each
+
+Mit der Methode [`each`](https://rubyapi.org/2.7/o/array#method-i-each) kann beispielsweise ein Array von Integern(Ganzzahlen) durchlaufen werden.
+```ruby
+[1, 2, 3, 4, 5].each do |number|
+  puts "Dies ist Durchlauf Nummer #{number}"
+end
+
+# Output
+Dies ist Durchlauf Nummer 1
+Dies ist Durchlauf Nummer 2
+Dies ist Durchlauf Nummer 3
+Dies ist Durchlauf Nummer 4
+Dies ist Durchlauf Nummer 5
+
+# Rückgabewert
+=> [1, 2, 3, 4, 5]
+```
+
+|Teil|Typ|Beschreibung|
+|-|-|-|
+|`[1, 2, 3, 4, 5]`|Array|Das Array über das gleich iteriert werden soll.|
+|`.each`|Methodenaufruf /vordefiniert|Wir möchten gerne etwas mit jedem Element im Array tun|
+|`do`|Keyword|Anfang eines Blocks, equivalent zu `{`|
+|`\|number\|`|Variablendefinition|Diese Variable wird in jeder Iteration(Durchlauf) den Wert des aktuellen Elements enthalten|
+|`puts "Dies ist Durchlauf Nummer #{number}"`|Die eigentliche Definition des Blocks|Hier wird bestimmt was mit jedem Element passieren soll|
+|`end`|Keyword|Keyword um einen Block zu schließen, equivalent zu `}`|
+
+Derselbe Block von vorher in zwei Varianten die dasselbe tun:
+```ruby
+[1, 2, 3, 4, 5].each do |number|
+  puts "Dies ist Durchlauf Nummer #{number}"
+end
+# oder
+[1, 2, 3, 4, 5].each { |number| puts "Dies ist Durchlauf Nummer #{number}" }
+```
+
