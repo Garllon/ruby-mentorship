@@ -160,7 +160,7 @@ end
 
 # Output
 Dies ist Durchlauf Nummer 1
-Dies ist Durchlauf Nummer is 2
+Dies ist Durchlauf Nummer 2
 Dies ist Durchlauf Nummer is 3
 Dies ist Durchlauf Nummer is 4
 Dies ist Durchlauf Nummer is 5
