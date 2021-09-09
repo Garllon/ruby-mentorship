@@ -297,10 +297,16 @@ puts "Folgende Produkte fehlen im Laden: #{not_available_products.join(", ")} :(
 
 ### (optionale) Hausaufgabe
 
-1. Aufgabe: Schreibe eine Methode mit der man ein Wortpaar zu einem Wörterbuch hinzufügen kann
-2. Aufgabe: Schreibe eine Methode die zählt wie viele Wortpaare in einem Wörterbuch vorhanden sind
-  1. Wenn ein Wortpaar bereits im Wörterbuch vorhanden ist überschreibe nicht den vorhandenen Wert
-  2. Informiere den Nutzer darüber das das Wortpaar bereits vorhanden ist (z.b. durch eine Nachricht)
-4. Aufgabe: Schreibe eine Methode die verifiziert ob ein Wortpaar bereits in einem Wörterbuch existiert
+Wir wollen uns ein Wörterbuch basteln mit den nachfolgenden Anforderungen basteln. Tipp: Am besten einmal alle Teile durchlesen bevor es los geht. Die Aufgaben sind mit Absicht in keiner expliziten Reihenfolge. ;)
+
+* Schreibe eine Methode mit der man ein Wortpaar zu einem Wörterbuch hinzufügen kann
+  * Kein Teil des Wortpaars darf `nil` sein
+  * Wenn ein Wortpaar bereits im Wörterbuch vorhanden ist überschreibe nicht den vorhandenen Wert
+  * Informiere den Nutzer darüber das das Wortpaar bereits vorhanden ist (z.b. durch eine Nachricht)
+  * Die Methode gibt nach erfolgreichem hinzufügen das modifizierte Wörterbuch zurück
+* Schreibe eine Methode die verifiziert ob ein Wortpaar bereits in einem Wörterbuch existiert
+* Schreibe eine Methode die zählt wie viele Wortpaare in einem Wörterbuch vorhanden sind
+
+P.S.: In die [Dokumentation](https://rubyapi.org/2.5) zu schauen um hilfreiche Methoden zu finden ist explizit erlaubt. :)
 
 [Mögliche Lösung](/lessons/examples/lesson-4-homework.rb)
