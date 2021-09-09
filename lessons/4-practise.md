@@ -295,20 +295,12 @@ puts "Folgende Produkte fehlen im Laden: #{not_available_products.join(", ")} :(
 
 </details>
 
-### Hausaufgabe
+### (optionale) Hausaufgabe
 
-Imagine you're about to buy a new desk. You have a monitor on your current desk, but you know you'll want to replace
-that one with a bigger model some time in the future. But first you want a shiny new desk! In order to make sure
-the new desk can fit the future monitor comfortably you need to figure out the width of it. Unfortunately all you about
-the mystical new monitor is it's diagonal (e.g. 32 inches) and it's aspect ratio (e.g. 16 by 9). 
+1. Aufgabe: Schreibe eine Methode mit der man ein Wortpaar zu einem Wörterbuch hinzufügen kann
+2. Aufgabe: Schreibe eine Methode die zählt wie viele Wortpaare in einem Wörterbuch vorhanden sind
+  1. Wenn ein Wortpaar bereits im Wörterbuch vorhanden ist überschreibe nicht den vorhandenen Wert
+  2. Informiere den Nutzer darüber das das Wortpaar bereits vorhanden ist (z.b. durch eine Nachricht)
+4. Aufgabe: Schreibe eine Methode die verifiziert ob ein Wortpaar bereits in einem Wörterbuch existiert
 
-**The (optional 😉) homework:**
-
-Write a method which can calculate the minimum width of the new desk based on
-the information available about the new monitor that should eventually be placed on top of it.
-
-*Bonus 1: Assume the diagonal is given in inches and return the minimum width in centimeters*
-
-*Bonus 2: Extend your method so that it also works when more than one monitor should be placed on the desk*
-
-[Possible Solution](/lessons/examples/lesson-4-homework.rb)
+[Mögliche Lösung](/lessons/examples/lesson-4-homework.rb)
