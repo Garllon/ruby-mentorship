@@ -153,6 +153,23 @@ the information available about the new monitor that should eventually be placed
 
 [Possible Solution](/lessons/examples/lesson-4-homework.rb)
 
+### optionale Hausaufgabe
+
+We'd like to create a dictionary according to the following requirements. Hint: Read all the parts before starting to work on it.
+The tasks are in no particular order on purpose. ;)
+
+* Write a method which allows to add a new key value pair to the dictionary
+  * No part of the key value pair may be `nil`
+  * When the given key value pair already exists in the dictionary do not overwrite it
+  * Inform the user when a key value pair already exists (e.g. by returning a message)
+  * Upon the successful addition of a new key value pair return the modified dictionary
+* Write a method to verify if a given key value pair already exists in the given dictionary
+* Write a method to count how many key value pairs are present in a given dictionary
+
+P.S.: Looking into the [documentation](https://rubyapi.org/2.5) for helpful (existing) methods is explicitly allowed. :)
+
+[Possible Solution](/lessons/examples/lesson-4-homework.rb)
+
 # German
 ## Lesson 4 - Üben
 
@@ -308,5 +325,23 @@ Wir wollen uns ein Wörterbuch basteln mit den nachfolgenden Anforderungen baste
 * Schreibe eine Methode die zählt wie viele Wortpaare in einem Wörterbuch vorhanden sind
 
 P.S.: In die [Dokumentation](https://rubyapi.org/2.5) zu schauen um hilfreiche Methoden zu finden ist explizit erlaubt. :)
+
+[Mögliche Lösung](/lessons/examples/lesson-4-homework.rb)
+
+### Hausaufgabe
+
+Stell' dir vor du möchtest einen neuen Schreibtisch kaufen. Du hast bereits einen Monitor, weißt aber schon das du ihn in Zukunft mit
+einem größeren ersetzen willst. Aber zunächst gilt es einen neuen Schreibtisch auszusuchen! Um sicherzustellen das der zukünftigen Monitor
+auf den neuen Schreibtisch passt muss die benötigte Breite berechnet werden. Leider ist über den neuen Monitor lediglich die Diagonale
+(z.b. 32 Zoll) und das Seitenverhältnis (bspw. 16 zu 9) bekannt.
+
+** Die (optionale) Hausaufgabe **
+
+Schreib' eine Methode die die benötigte Mindestbreite für den neuen Schreibtisch berechnet basierend auf den auf den Daten zum zukünftigen
+Monitor der irgendwann mal darauf gestellt werden soll.
+
+*Bonus 1: Nimm an das die Diagonale in Zoll angegeben wird und gibt die benötigte Mindestbreite in Zentimetern zurück*
+
+*Bonus 2: Erweitere die Methode so das sie auch mit mehr als einem Monitor funktioniert*
 
 [Mögliche Lösung](/lessons/examples/lesson-4-homework.rb)
