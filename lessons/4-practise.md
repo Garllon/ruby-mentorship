@@ -156,11 +156,11 @@ the information available about the new monitor that should eventually be placed
 # German
 ## Lesson 4 - Üben
 
-  - [General](#general)
-  - [Going Shopping](#going-shopping)
-  - [Hashes](#hashes)
-  - [Cashing Out](#cashing-out)
-  - [Homework](#homework)
+  - [Ganz allgemein](#ganz-allgemein)
+  - [Der Einkauf](#der-einkauf)
+  - [Hashes](#hashes-1)
+  - [Bezahlen](#bezahlen)
+  - [(optionale) Hausaufgabe](#optionale-hausaufgabe)
 
 ### Ganz allgemein
 Dieses mal wollen wir ein bisschen einkaufen gehen (auf dem `Todesstern`⭐, mit VADER DOLLAR💲).
