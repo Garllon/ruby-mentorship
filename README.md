@@ -60,7 +60,13 @@ Wir lernen Hashes kennen und üben das bisher gelernte
 
 ## Lesson 5 Write and use files
 
-Lesson 5: [Write and use files](lessons/5-write-and-use-files.md)
+We learn how to write and use files.
+
+[English Version](lessons/5-write-and-use-files.md#english)
+
+Wir lernen das Schreiben und Benutzen von Dateien.
+
+[Deutsche Version](lessons/5-write-and-use-files.md#deutsch)
 
 ## Lesson 6 Another round of practice
 
