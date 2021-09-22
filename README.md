@@ -58,7 +58,7 @@ Wir lernen Hashes kennen und üben das bisher gelernte
 
 [Deutsche Version](/lessons/4-practise.md#german)
 
-## Lesson 5 Write and use files
+## Lesson 5 - Write and use files
 
 We learn how to write and use files.
 
@@ -68,20 +68,20 @@ Wir lernen das Schreiben und Benutzen von Dateien.
 
 [Deutsche Version](lessons/5-write-and-use-files.md#deutsch)
 
-## Lesson 6 Another round of practice
+## Lesson 6 - Another round of practice
 
 Lesson 6: [Practice](lessons/6-practice.md)
 
-## Lesson 7 Revisiting Strings and Hashes
+## Lesson 7 - Revisiting Strings and Hashes
 
 Lesson 7: [Revisiting Strings and Hashes](lessons/7-revisiting-strings-and-hashes.md)
 
-## Lesson 8 Organizing Code in Files
+## Lesson 8 - Organizing Code in Files
 
 Lesson 8: [Organizing Code in Files](lessons/8-organizing-code-in-files.md)
 
-## Lesson 9 Object orientation
+## Lesson 9 - Object orientation
 
 Lesson 9: [Object orientation](lessons/9-object-orientation.md)
 
-## Lesson 10 (Under Construction)
+## Lesson 10 - (Under Construction)
