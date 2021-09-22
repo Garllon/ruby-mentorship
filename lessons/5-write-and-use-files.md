@@ -73,7 +73,7 @@ Two inputs and the solution and your program tells you if the input is correct.
    
 ### Mit gets und puts ein interaktives Programm schreiben.
 
-In Ruby gibt es eine Method mit welcher wir die Eingabe des Benutzer abfragen können (auf dem Terminal). Die Methode heißt [`gets`](https://rubyapi.org/2.7/o/kernel#method-i-gets).
+In Ruby gibt es eine Methode mit welcher wir eine Eingabe des Benutzers abfragen können (auf dem Terminal). Die Methode heißt [`gets`](https://rubyapi.org/2.7/o/kernel#method-i-gets).
 Mit `gets` und Schleifen ist es schon super einfach ein kleines Programm zu schreiben: 
 
 ```ruby
