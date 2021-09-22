@@ -19,19 +19,30 @@
 
 4. Now run your container as always and type:
    ```shell
+   # lesson-5.rb is our filename, you named it maybe different.
    ruby lesson-5.rb
    ```
    
 ### Work with gets and puts and loops to create and interactive tool
 
 In ruby there is a method to get input from a user (on a terminal). It's called [`gets`](https://rubyapi.org/2.7/o/kernel#method-i-gets).
-Using `gets` and loops it's possible to build simple command line programs. Like so:
 
 ```ruby
 input = gets.chomp
 ```
 
 The user confirms the input by pressing the enter key. Since the enter key also creates a new line we need to remove that from the input. That's what the [`chomp`](https://rubyapi.org/2.7/o/string#method-i-chomp) method does for us. :)
+
+Using `gets` and loops it's possible to build simple command line programs. Like so:
+
+```ruby
+input = nil
+
+while input != "yes" do
+   puts "Would you like to exit then type 'yes'."
+   input = gets.chomp
+end
+```
 
 Keep in mind that `gets` returns a string. ;)
 
@@ -68,19 +79,30 @@ Two inputs and the solution and your program tells you if the input is correct.
 
 4. Nun starte deinen Container und führe den folgenden Befehl aus:
    ```shell
+   # lesson-5.rb ist der Name unserer Datei, du hast sie vielleicht anders genannt.
    ruby lesson-5.rb
    ```
    
 ### Mit gets und puts ein interaktives Programm schreiben.
 
 In Ruby gibt es eine Methode mit welcher wir eine Eingabe des Benutzers abfragen können (auf dem Terminal). Die Methode heißt [`gets`](https://rubyapi.org/2.7/o/kernel#method-i-gets).
-Mit `gets` und Schleifen ist es schon super einfach ein kleines Programm zu schreiben: 
 
 ```ruby
 input = gets.chomp
 ```
 
 Der Benutzer bestätigt die Eingabe mit dem Drücken der `Enter` Taste. Da die `Enter` Taste auch zum Schreiben einer neuen Zeile benutzt wird müssen wir diese hier noch entfernen. Das macht die [`chomp`](https://rubyapi.org/2.7/o/string#method-i-chomp) Methode für uns. :)
+
+Mit `gets` und Schleifen ist es schon super einfach ein kleines Programm zu schreiben: 
+
+```ruby
+input = nil
+
+while input != "ja" do
+   puts "Zum verlassen 'ja' eingeben."
+   input = gets.chomp
+end
+```
 
 Beachte das `gets` einen String zurück gibt.
 
