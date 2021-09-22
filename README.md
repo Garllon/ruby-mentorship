@@ -64,7 +64,7 @@ We learn how to write and use files.
 
 [English Version](lessons/5-write-and-use-files.md#english)
 
-Wir lernen das schreiben und benutzen von Dateien.
+Wir lernen das Schreiben und Benutzen von Dateien.
 
 [Deutsche Version](lessons/5-write-and-use-files.md#deutsch)
 
