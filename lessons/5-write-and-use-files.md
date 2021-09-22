@@ -56,7 +56,7 @@ Two inputs and the solution and your program tells you if the input is correct.
 
 ### Erstellen und ausführen von Dateien
 
-1. Gehe zu deinem Ordner welchen du mit deinem Container synchronisiert hast und erstelle eine neue Datei. Den Namen der Datei kannst du freiwählen, aber die Endung muss `.rb`. `.rb` is hier die Abkürzung für Ruby und ist wichtig für den Interpreter.
+1. Gehe zu deinem Ordner welchen du mit deinem Container synchronisiert hast und erstelle eine neue Datei. Den Namen der Datei kannst du freiwählen, aber die Endung muss `.rb` sein. `.rb` is hier die Abkürzung für Ruby und ist wichtig für den Interpreter.
 
 2. Wir haben folgende Datei erstellt: [lesson-5.rb](/lessons/examples/lesson-5.rb)
 
