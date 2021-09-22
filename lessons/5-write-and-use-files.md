@@ -115,7 +115,6 @@ Verpacke deinen Code in eine oder mehrere Methoden.
 
 Zusatz 2:
 Benutze Schleifen und erlaube dem Benutzer zu entscheiden, wann er das Programm beenden möchte.
-Use loops and allow the user to decide when to exit the program
 
 Wenn du keine Idee hast, dann baue doch einen Additionstrainer. ➕
 Zwei Eingaben und die Lösung und dein Programm sagt ob es richtig oder falsch ist.
