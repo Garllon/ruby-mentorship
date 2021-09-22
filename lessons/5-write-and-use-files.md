@@ -80,7 +80,7 @@ Mit `gets` und Schleifen ist es schon super einfach ein kleines Programm zu schr
 input = gets.chomp
 ```
 
-Der Benutzer bestätigt die Eingabe mit dem Drücken der `Enter` Taste. Da die `Enter` Taste auch zumschreiben einer neuen Zeile benutzt wird müssen wir diese hier noch entfernen. Das macht die [`chomp`](https://rubyapi.org/2.7/o/string#method-i-chomp) Methode für uns. :)
+Der Benutzer bestätigt die Eingabe mit dem Drücken der `Enter` Taste. Da die `Enter` Taste auch zum Schreiben einer neuen Zeile benutzt wird müssen wir diese hier noch entfernen. Das macht die [`chomp`](https://rubyapi.org/2.7/o/string#method-i-chomp) Methode für uns. :)
 
 Beachte das `gets` einen String zurück gibt.
 
