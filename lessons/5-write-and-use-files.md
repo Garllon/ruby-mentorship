@@ -89,7 +89,7 @@ Beachte das `gets` einen String zurück gibt.
 Schreibe ein interaktives Ruby Programm das Benutzereingaben verarbeitet (z.B. mit Hilfe der gets Methode). Es sollte seine eigene Datei haben (z.B. 'homework.rb') und kann durch `ruby homework.rb` ausgeführt werden. (z.B. in repl oder unserem Container)
 
 Zusatz 1:
-Verpacken deinen Code in eine oder mehrere Methoden.
+Verpacke deinen Code in eine oder mehrere Methoden.
 
 Zusatz 2:
 Benutze Schleifen und erlaube dem Benutzer zu entscheiden, wann er das Programm beenden möchte.
