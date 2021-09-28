@@ -84,7 +84,7 @@ dictonary["month"]
 |`{`|keyword|Beginning of a hash|
 |"hello"|key|your defined key for a key value pair|
 |`=>`|seperator|lets ruby know that the key ends here and the value comes next ('hash rocket')|
-|"hello"|value|the assigned value to your defined key|
+|"Hallo"|value|the assigned value to your defined key|
 |`}`|keyword|end of a hash|
 
 The keys and values of hashes can be everything.
@@ -258,7 +258,7 @@ dictonary["month"]
 |`{`|Keyword|Der Anfang eines Hash|
 |"hello"|Key|Der Schlüssel eines Schlüsselwerts|
 |`=>`|Trennzeichen|lässt Ruby wissen das der Schlüssel zuende ist und als nächstes der Wert folgt ('hash rocket' genannt)|
-|"hello"|Value|Der Wert zum zuvor definierten Schlüsse|
+|"Hallo"|Value|Der Wert zum zuvor definierten Schlüsse|
 |`}`|Keyword|Das Ende eines Hash|
 
 Schlüssel und Werte eines Hashs können beliebig gewählt werden, also könnte zum Beispiel sowohl der Schlüssel als auch der Wert eines Hashs wiederrum ein Hash 
@@ -266,7 +266,7 @@ sein. 🪆
 
 ### Bezahlen:
 
-Wir befinden uns in derselben Situation wie in [Going Shopping](#going-shopping), aber dieses mal wollen wir sowohl den Gesamtpreis aller ausgesuchten Artikel als
+Wir befinden uns in derselben Situation wie in [Der Einkauf](#der-einkauf), aber dieses mal wollen wir sowohl den Gesamtpreis aller ausgesuchten Artikel als
 auch die fehlenden Artikel wissen. Hier ist eine Liste der verfügbaren Produkte und ihren Preisen:
 
 - milk => 1.5
