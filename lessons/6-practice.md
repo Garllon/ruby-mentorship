@@ -41,7 +41,7 @@ Lasst uns ein Einkaufslistenprogramm zusammen schreiben! :)
 
 ### Eingaben erfassen
 
-Zunächst wollen wir den Nutzer die Möglichkeit geben Artikel auf die Einkaufsliste zu schreiben.
+Zunächst wollen wir dem Nutzer die Möglichkeit geben Artikel auf die Einkaufsliste zu schreiben.
 
 Das Programm soll interaktiv sein und dem Nutzer erlauben die Eingabe(n) zu beenden wenn keine weiteren Artikel zur Liste hinzugefügt werden sollen.
 
@@ -55,15 +55,13 @@ Der Nutzer soll die Möglichkeit haben zu sehen was sich momentan auf der Einkau
 
 ### Quantifizierung
 
-Allow the user to specify how many/much of each item should be on the shopping list.
-Es soll möglich sein anzugeben wie viel von einem jeweiligen Artikel auf der Einkaufsliste stehen soll
+Es soll möglich sein anzugeben wie viel von einem jeweiligen Artikel auf der Einkaufsliste stehen soll.
 
 [`example`](/lessons/examples/lesson-6-quantities.rb)
 
 ## Hausaufgabe
 
-Try to extend one of the programs you wrote in the past with a new feature - anything goes! :)
-Versuch' ein Programm was du in der Vergangenheit geschrieben hast zu erweitern - alles ist erlaubt! :)
+Versuche ein Programm was du in der Vergangenheit geschrieben hast zu erweitern - alles ist erlaubt! :)
 
 Bonus 1:
 Tausche ein Programm was du geschrieben hast mit dem einer anderen Person und versuche dann das
