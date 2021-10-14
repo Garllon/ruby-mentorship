@@ -70,7 +70,13 @@ Wir lernen das Schreiben und Benutzen von Dateien.
 
 ## Lesson 6 - Another round of practice
 
-Lesson 6: [Practice](lessons/6-practice.md)
+We recap and practice what we learned a bit more.
+
+[English Version](lessons/6-practice.md#english)
+
+Üben, üben, üben.
+
+[Deutsche Version](lessons/6-practice.md#deutsch)
 
 ## Lesson 7 - Revisiting Strings and Hashes
 
