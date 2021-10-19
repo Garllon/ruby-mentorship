@@ -3,7 +3,18 @@
 ## General
 
 This is a guide for doing a mentorship. It is based on ruby, currently [2.7](https://rubyapi.org/2.7)
-We are starting with the setup and then go from lesson to lesson.
+We are starting and grow our knowledge with every lesson.
+
+Before you start with lesson 1 now, have a look at this video.
+[How to make a sandwich](https://www.youtube.com/watch?v=U3TsVz_pJf4&t=136s&ab_channel=DigitalDixie).
+You get a funny introduction about how a computer works and that the computer will only (literally) do what you tell it to do. :)
+
+Dies ist eine Guide(Anleitung) zum durchführen eines Anfängerkurs. Es basiert auf der Rubyversion, aktuell [2.7](https://rubyapi.org/2.7).
+Wir starten und bauen unser Wissen mit jeder weiteren Stunde aus.
+
+Bevor du mit der ersten Stunde anfängst, schaue dir doch einmal dieses Video an.
+[How to make a sandwich](https://www.youtube.com/watch?v=U3TsVz_pJf4&t=136s&ab_channel=DigitalDixie).
+Du bekommst eine lustige Einführung wie ein Computer funktioneirt und ein Computer nur (wortwörtlich) tut was du ihm sagst. :)
 
 ### Resources
 
