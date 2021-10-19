@@ -1,15 +1,16 @@
+# Setup
 
-## Setup
+## English
 
 ### For MacOS and Windows User
 
-1. Install Docker Desktop if you are using Windows or MacOs as operating system. (Docker Desktop)[https://www.docker.com/products/docker-desktop]
+1. Install (Docker Desktop)[https://www.docker.com/products/docker-desktop] if you are using MacOS or Windows as operating system.
 2. Set up a new directory for your coding journey (remember it's name and where it's located)
-3. Execute `docker pull garllon/mentorship` on a console (Windows: Cmd or PowerShell; MacOS: Termnial)
+3. Execute `docker pull garllon/mentorship` on a console (Windows: Cmd or PowerShell; MacOS: Terminal)
 4. Open `Docker for Desktop` by clicking on this icon ![Config Code Folder](/screenshots/DockerIcon.png).
     - MacOS: It is in the top right corner.
-    - Windows: Is is in the right bottom corner.
-5. Configure your new directory in Docker Desktop
+    - Windows: It is in the right bottom corner.
+5. Configure your new directory from step 2 in Docker Desktop
     1. First click on the gear
     2. Then Resources and File Sharing
     3. Click the `⊕` Button
@@ -17,7 +18,7 @@
     ![Config Code Folder](/screenshots/ConfigDockerDesktopFileSharing.png)
     
 6. Spin up a new container
-    Click on Run.
+    Click on `Run`.
 
     ![Config Code Folder](/screenshots/CreateContainerInit.png)
 
@@ -49,6 +50,52 @@ to start the container.
 
 Maybe you need to add `sudo` in front of the commands to run it with sudo permissions.
 
-Before you start with lesson 1 now, have a look at this video.
-[How to make a sandwich](https://www.youtube.com/watch?v=U3TsVz_pJf4&t=136s&ab_channel=DigitalDixie).
-You get a funny introduction about how a computer works and that the computer will only (literally) do what you tell it to do. :)
+## Deutsch
+
+### Für MacOS und Windows Benutzer
+
+1. Installiere (Docker Desktop)[https://www.docker.com/products/docker-desktop], wenn due MacOS oder Windows benutzt. 
+2. Erstelle einen neuen Ordner für deine 'Coding' Reise. (Erinnerung: Bitte merken wie er heißt und wo er ist ;) )
+3. Führe `docker pull garllon/mentorship` auf einer Konsole aus. (Windows: Cmd or PowerShell; MacOS: Terminal)
+4. Öfffne `Docker Desktop` durch Doppelklick auf das Icon ![Config Code Folder](/screenshots/DockerIcon.png).
+    - MacOS: Es befindet sich in der oberen rechten Ecke.
+    - Windows: Es befindet sich in der unteren rechten Ecke.
+5. Konfiguriere deinen neuen Ordner aus Schritt 2 in `Docker Desktop`
+    1. Als erstes klicke auf das Zahnradsymbol
+    2. Dann auf `Ressources` und `File Sharing`
+    3. Klicke auf den `⊕` Button
+    
+    ![Config Code Folder](/screenshots/ConfigDockerDesktopFileSharing.png)
+    
+6. Einen neuen Container erstellen
+    Klick auf `Run`
+
+    ![Config Code Folder](/screenshots/CreateContainerInit.png)
+
+    1. Wählen einen Namen den du magst
+    2. Wähle den Ordner aus Schritt 2 aus
+    3. Definiere einen Containerpfad(container_path) wie `/<name>`
+    
+    ![Config Code Folder](/screenshots/CreateContainerSetup.png)
+    
+7. Öffne ein Terminal in dem du auf den Container klickst
+
+    ![Config Code Folder](/screenshots/RunTerminal.png)
+
+8. Wir sind fertig
+
+    ![Config Code Folder](/screenshots/ReadyToGo.png)
+    
+### For Linux User
+
+Führe den folgenden Befehl in einem Terminal aus:
+```shell
+docker pull garllon/mentorship
+```
+danach den folgenden Befehl
+```shell
+docker run -it garllon/mentorship sh
+```
+um den Containe zu starten.
+
+Möglicherweise musst du ein `sudo` vor deinen Befehl packen, damit es mit den `sudo` berechtigungen läuft.
