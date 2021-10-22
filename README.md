@@ -20,7 +20,7 @@ You get a funny introduction about how a computer works and that the computer wi
 ### German
 
 Dies ist ein Guide(Anleitung) zum Durchführen eines Anfängerkurses. Er basiert aktuell auf der Rubyversion [2.7](https://rubyapi.org/2.7).
-Wir starten und bauen unser Wissen mit jeder weiteren Stunde aus.
+Die verschiedenen Stunden bauen aufeinander auf.
 
 Bevor du mit der ersten Stunde anfängst, schaue dir doch einmal dieses Video an.
 [How to make a sandwich](https://www.youtube.com/watch?v=U3TsVz_pJf4&t=136s&ab_channel=DigitalDixie).
