@@ -19,7 +19,7 @@ You get a funny introduction about how a computer works and that the computer wi
 
 ### German
 
-Dies ist eine Guide(Anleitung) zum durchführen eines Anfängerkurs. Es basiert auf der Rubyversion, aktuell [2.7](https://rubyapi.org/2.7).
+Dies ist ein Guide(Anleitung) zum Durchführen eines Anfängerkurses. Er basiert aktuell auf der Rubyversion [2.7](https://rubyapi.org/2.7).
 Wir starten und bauen unser Wissen mit jeder weiteren Stunde aus.
 
 Bevor du mit der ersten Stunde anfängst, schaue dir doch einmal dieses Video an.
