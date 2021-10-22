@@ -5,7 +5,7 @@
 ### English
 
 This is a guide for doing a mentorship. It is based on ruby, currently [2.7](https://rubyapi.org/2.7)
-We are starting and grow our knowledge with every lesson.
+The lessons will build on top of each other.
 
 Before you start with lesson 1 now, have a look at this video.
 [How to make a sandwich](https://www.youtube.com/watch?v=U3TsVz_pJf4&t=136s&ab_channel=DigitalDixie).
