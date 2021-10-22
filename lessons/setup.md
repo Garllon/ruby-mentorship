@@ -4,7 +4,7 @@
 
 ### For MacOS and Windows User
 
-1. Install (Docker Desktop)[https://www.docker.com/products/docker-desktop] if you are using MacOS or Windows as operating system.
+1. Install (Docker Desktop)[https://www.docker.com/products/docker-desktop] if your operating system is MacOS or Windows.
 2. Set up a new directory for your coding journey (remember it's name and where it's located)
 3. Execute `docker pull garllon/mentorship` on a console (Windows: Cmd or PowerShell; MacOS: Terminal)
 4. Open `Docker for Desktop` by clicking on this icon ![Config Code Folder](/screenshots/DockerIcon.png).
