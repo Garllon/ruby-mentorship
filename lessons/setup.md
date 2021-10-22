@@ -9,7 +9,7 @@
 3. Execute `docker pull garllon/mentorship` on a console (Windows: Cmd or PowerShell; MacOS: Terminal)
 4. Open `Docker for Desktop` by clicking on this icon ![Config Code Folder](/screenshots/DockerIcon.png).
     - MacOS: It is in the top right corner.
-    - Windows: It is in the right bottom corner.
+    - Windows: It is in the bottom right corner.
 5. Configure your new directory from step 2 in Docker Desktop
     1. First click on the gear
     2. Then Resources and File Sharing
