@@ -24,7 +24,7 @@ Die verschiedenen Stunden bauen aufeinander auf.
 
 Bevor du mit der ersten Stunde anfängst, schaue dir doch einmal dieses Video an.
 [How to make a sandwich](https://www.youtube.com/watch?v=U3TsVz_pJf4&t=136s&ab_channel=DigitalDixie).
-Du bekommst eine lustige Einführung wie ein Computer funktioneirt und ein Computer nur (wortwörtlich) tut was du ihm sagst. :)
+Du bekommst eine lustige Einführung wie ein Computer funktioniert und ein Computer nur (wortwörtlich) tut was du ihm sagst. :)
 
 #### Ressourcen
 
