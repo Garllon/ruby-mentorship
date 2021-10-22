@@ -62,7 +62,7 @@ Maybe you need to add `sudo` in front of the commands to run it with sudo permis
     - Windows: Es befindet sich in der unteren rechten Ecke.
 5. Konfiguriere deinen neuen Ordner aus Schritt 2 in `Docker Desktop`
     1. Als erstes klicke auf das Zahnradsymbol
-    2. Dann auf `Ressources` und `File Sharing`
+    2. Dann auf `Resources` und `File Sharing`
     3. Klicke auf den `⊕` Button
     
     ![Config Code Folder](/screenshots/ConfigDockerDesktopFileSharing.png)
