@@ -54,7 +54,7 @@ Maybe you need to add `sudo` in front of the commands to run it with sudo permis
 
 ### Für MacOS und Windows Benutzer
 
-1. Installiere (Docker Desktop)[https://www.docker.com/products/docker-desktop], wenn due MacOS oder Windows benutzt. 
+1. Installiere (Docker Desktop)[https://www.docker.com/products/docker-desktop], wenn du MacOS oder Windows benutzt. 
 2. Erstelle einen neuen Ordner für deine 'Coding' Reise. (Erinnerung: Bitte merken wie er heißt und wo er ist ;) )
 3. Führe `docker pull garllon/mentorship` auf einer Konsole aus. (Windows: Cmd oder PowerShell; MacOS: Terminal)
 4. Öffne `Docker Desktop` durch Doppelklick auf das Icon ![Config Code Folder](/screenshots/DockerIcon.png).
