@@ -1,4 +1,4 @@
-# Setup
+# Docker Setup
 
 ## English
 
@@ -14,9 +14,9 @@
     1. First click on the gear
     2. Then Resources and File Sharing
     3. Click the `⊕` Button
-    
+
     ![Config Code Folder](/screenshots/ConfigDockerDesktopFileSharing.png)
-    
+
 6. Spin up a new container
     Click on `Run`.
 
@@ -25,9 +25,9 @@
     1. Define a name you like
     2. Pick the directory you created in Step 2
     3. Define a container_path like `/<name>`
-    
+
     ![Config Code Folder](/screenshots/CreateContainerSetup.png)
-    
+
 7. Open a terminal by clicking the container
 
     ![Config Code Folder](/screenshots/RunTerminal.png)
@@ -35,7 +35,7 @@
 8. You are ready to go
 
     ![Config Code Folder](/screenshots/ReadyToGo.png)
-    
+
 ### For Linux User
 
 Run
@@ -54,7 +54,7 @@ Maybe you need to add `sudo` in front of the commands to run it with sudo permis
 
 ### Für MacOS und Windows Benutzer
 
-1. Installiere (Docker Desktop)[https://www.docker.com/products/docker-desktop], wenn du MacOS oder Windows benutzt. 
+1. Installiere (Docker Desktop)[https://www.docker.com/products/docker-desktop], wenn du MacOS oder Windows benutzt.
 2. Erstelle einen neuen Ordner für deine 'Coding' Reise. (Erinnerung: Bitte merken wie er heißt und wo er ist ;) )
 3. Führe `docker pull garllon/mentorship` auf einer Konsole aus. (Windows: Cmd oder PowerShell; MacOS: Terminal)
 4. Öffne `Docker Desktop` durch Doppelklick auf das Icon ![Config Code Folder](/screenshots/DockerIcon.png).
@@ -64,9 +64,9 @@ Maybe you need to add `sudo` in front of the commands to run it with sudo permis
     1. Als erstes klicke auf das Zahnradsymbol
     2. Dann auf `Resources` und `File Sharing`
     3. Klicke auf den `⊕` Button
-    
+
     ![Config Code Folder](/screenshots/ConfigDockerDesktopFileSharing.png)
-    
+
 6. Einen neuen Container erstellen
     Klick auf `Run`
 
@@ -75,9 +75,9 @@ Maybe you need to add `sudo` in front of the commands to run it with sudo permis
     1. Wählen einen Namen den du magst
     2. Wähle den Ordner aus Schritt 2 aus
     3. Definiere einen Containerpfad(container_path) wie `/<name>`
-    
+
     ![Config Code Folder](/screenshots/CreateContainerSetup.png)
-    
+
 7. Öffne ein Terminal in dem du auf den Container klickst
 
     ![Config Code Folder](/screenshots/RunTerminal.png)
@@ -85,7 +85,7 @@ Maybe you need to add `sudo` in front of the commands to run it with sudo permis
 8. Wir sind fertig
 
     ![Config Code Folder](/screenshots/ReadyToGo.png)
-    
+
 ### For Linux User
 
 Führe den folgenden Befehl in einem Terminal aus:

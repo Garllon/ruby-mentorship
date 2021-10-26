@@ -1,4 +1,4 @@
-## Ruby - Mentorship
+# Ruby - Mentorship
 
 ## General
 
@@ -17,6 +17,21 @@ You get a funny introduction about how a computer works and that the computer wi
 * You can look up methods and their documentation on https://rubyapi.org/2.7
 * We are using the following website for the start: https://replit.com/languages/ruby
 
+#### Advanced Setup
+
+##### Editor
+
+We recommend to use the [Atom](https://atom.io) editor as it allows for collaboration and runs on all major platforms.
+
+You can find instructions to set it up here:
+
+##### Docker
+
+Docker allows you to execute Ruby code independently from your operating system, so that every participant gets to use the same commands.
+
+- [MacOS, Windows](/setup/docker.md#for-macos-and-windows-user)
+- [Linux](/setup/docker.md#for-linux-user)
+
 ### German
 
 Dies ist ein Guide(Anleitung) zum Durchführen eines Anfängerkurses. Er basiert aktuell auf der Rubyversion [2.7](https://rubyapi.org/2.7).
@@ -32,10 +47,22 @@ Du bekommst eine lustige Einführung wie ein Computer funktioniert und ein Compu
 * Du kannst dir die Methoden und ihre Dokumentation unter https://rubyapi.org/2.7 anschauen
 * Wir benutzen die folgende Webseite für den Anfang: https://replit.com/languages/ruby
 
-## Advanced Setup / Erweitertes Setup
+#### Erweitertes Setup
 
-- [MacOS, Windows](/lessons/setup.md#for-macos-and-windows-user)
-- [Linux](/lessons/setup.md#for-linux-user)
+##### Editor
+
+Es wird der [Atom](https://atom.io) Editor empfohlen, da er es erlaubt Dateien gemeinsam zu bearbeiten und auf allen gängigen Plattformen verfügbar ist.
+
+Eine Anleitung zum einrichten ist hier zu finden:
+
+##### Docker
+
+Docker erlaubt es euch Ruby Code unabhängig von euerem Betriebssystem auszuführen, damit alle Teilnehmer die gleichen Befehle benutzten können.
+
+- [MacOS, Windows](/setup/docker.md#for-macos-and-windows-user)
+- [Linux](/setup/docker.md#for-linux-user)
+
+##### Docker
 
 ## Lesson 1 - Variables / Variablen
 
