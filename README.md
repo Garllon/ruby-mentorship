@@ -23,7 +23,7 @@ You get a funny introduction about how a computer works and that the computer wi
 
 We recommend to use the [Atom](https://atom.io) editor as it allows for collaboration and runs on all major platforms.
 
-You can find instructions to set it up here:
+You can find instructions to set it up here: [Editor](/setup/editor.md#english).
 
 ##### Docker
 
@@ -53,14 +53,14 @@ Du bekommst eine lustige Einführung wie ein Computer funktioniert und ein Compu
 
 Es wird der [Atom](https://atom.io) Editor empfohlen, da er es erlaubt Dateien gemeinsam zu bearbeiten und auf allen gängigen Plattformen verfügbar ist.
 
-Eine Anleitung zum einrichten ist hier zu finden:
+Eine Anleitung zum einrichten ist hier zu finden: [Editor](/setup/editor.md#german)
 
 ##### Docker
 
 Docker erlaubt es euch Ruby Code unabhängig von euerem Betriebssystem auszuführen, damit alle Teilnehmer die gleichen Befehle benutzten können.
 
-- [MacOS, Windows](/setup/docker.md#for-macos-and-windows-user)
-- [Linux](/setup/docker.md#for-linux-user)
+- [MacOS, Windows](/setup/docker.md#f%C3%BCr-macos-und-windows-benutzer )
+- [Linux](/setup/docker.md#for-linux-user-1)
 
 ##### Docker
 
