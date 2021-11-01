@@ -62,8 +62,6 @@ Docker erlaubt es euch Ruby Code unabhängig von euerem Betriebssystem auszufüh
 - [MacOS, Windows](/setup/docker.md#f%C3%BCr-macos-und-windows-benutzer )
 - [Linux](/setup/docker.md#for-linux-user-1)
 
-##### Docker
-
 ## Lesson 1 - Variables / Variablen
 
 We are explaining what variables are and how to use them:
