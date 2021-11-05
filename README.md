@@ -124,9 +124,15 @@ We recap and practice what we learned a bit more.
 
 [Deutsche Version](lessons/6-practice.md#deutsch)
 
-## Lesson 7 - Revisiting Strings and Hashes
+## Lesson 7 - Revisiting Strings and Hashes / Wiedersehen mit Strings und Hashes
 
-Lesson 7: [Revisiting Strings and Hashes](lessons/7-revisiting-strings-and-hashes.md)
+We learn about String interpolation and symbols.
+
+[English Version](lessons/7-revisiting-strings-and-hashes.md#english)
+
+Wir lernen etwas über String Interpolation und Symbols sind.
+
+[Deutsche Version](lessons/7-revisiting-strings-and-hashes.md#deutsch)
 
 ## Lesson 8 - Organizing Code in Files
 
