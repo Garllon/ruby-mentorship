@@ -134,9 +134,15 @@ Wir lernen etwas über String Interpolation und Symbols sind.
 
 [Deutsche Version](lessons/7-revisiting-strings-and-hashes.md#deutsch)
 
-## Lesson 8 - Organizing Code in Files
+## Lesson 8 - Organizing Code in Files / Code in mehreren Dateien
 
-Lesson 8: [Organizing Code in Files](lessons/8-organizing-code-in-files.md)
+We learn how to use code from different files together.
+
+[English Version](lessons/8-organizing-code-in-files.md#english)
+
+Wir lernen wie man Code aus verschiedenen Dateien zusammen benutzt.
+
+[Deutsche Version](lessons/8-organizing-code-in-files.md#deutsch)
 
 ## Lesson 9 - Object orientation
 
