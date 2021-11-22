@@ -144,8 +144,14 @@ Wir lernen wie man Code aus verschiedenen Dateien zusammen benutzt.
 
 [Deutsche Version](lessons/8-organizing-code-in-files.md#deutsch)
 
-## Lesson 9 - Object orientation
+## Lesson 9 - Object orientation / Objektorientierung
 
-Lesson 9: [Object orientation](lessons/9-object-orientation.md)
+We learn what classes and objects are and how to use them.
+
+[English Version](lessons/9-object-orientation.md#english)
+
+Wir lernen was Klassen und Objekte sind und wie man sie benutzt.
+
+[Deutsche Version](lessons/9-object-orientation.md#deutsch)
 
 ## Lesson 10 - (Under Construction)
