@@ -36,6 +36,8 @@
 
     ![Config Code Folder](/screenshots/ReadyToGo.png)
 
+You can look up some basic commands for the terminal [here](https://www.cs.mtsu.edu/~xyang/Fall2020/unix.pdf).
+
 ### For Linux User
 
 Run
@@ -86,6 +88,8 @@ Maybe you need to add `sudo` in front of the commands to run it with sudo permis
 
     ![Config Code Folder](/screenshots/ReadyToGo.png)
 
+Ein paar grundlegende Befehle um sich im Container zu bewegen können [hier](https://www2.icp.uni-stuttgart.de/~icp/mediawiki/images/b/bd/Sim_Meth_I_T0_cheat_sheet_10_11.pdf) nachgeschlagen werden.
+
 ### For Linux User
 
 Führe den folgenden Befehl in einem Terminal aus:
@@ -96,6 +100,6 @@ danach den folgenden Befehl
 ```shell
 docker run -it garllon/mentorship sh
 ```
-um den Containe zu starten.
+um den Container zu starten.
 
 Möglicherweise musst du ein `sudo` vor deinen Befehl packen, damit es mit den `sudo` berechtigungen läuft.
