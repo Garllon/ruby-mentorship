@@ -130,7 +130,7 @@ We learn about String interpolation and symbols.
 
 [English Version](lessons/7-revisiting-strings-and-hashes.md#english)
 
-Wir lernen etwas über String Interpolation und Symbols sind.
+Wir lernen etwas über String Interpolation und Symbols.
 
 [Deutsche Version](lessons/7-revisiting-strings-and-hashes.md#deutsch)
 
