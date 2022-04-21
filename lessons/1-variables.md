@@ -21,7 +21,7 @@ right side, what you like to assign.
 
 #### Number
 
-Define an number.
+Define a number.
 ```ruby
 # A number
 number = 1
