@@ -154,4 +154,13 @@ Wir lernen was Klassen und Objekte sind und wie man sie benutzt.
 
 [Deutsche Version](lessons/9-object-orientation.md#deutsch)
 
-## Lesson 10 - (Under Construction)
+## Lesson 10 - Version control / Versionskontrolle
+
+We learn what version control is, what it is good for and some basic use cases.
+
+[English Version](lessons/10-version-control.md#english)
+
+Wir lernen was es mit Versionskontrolle auf sich hat und grundlegende
+Anwendungsfälle.
+
+[Deutsche Verison](lessons/10-version-control.md#deutsch)
