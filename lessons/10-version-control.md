@@ -76,11 +76,28 @@ Wenn du etwas zu einem bestehen Repository beitragen möchtest, kannst du mit `g
 `git@github.com:Garllon/ruby-mentorship.git`.
 
 Die nachfolgenden Befehle fügen Änderungen zum aktuellen `branch` hinzu. Du kannst den `branch` auch
-wechseln mit Hilfe des Befehls: `git checkout BRANCHNAME`.
+wechseln mit Hilfe des Befehls: `git checkout BRANCHNAME`. BRANCHNAME ist der Name eines existierenden
+Branches. Um einen neuen Branch zu erstellen kannst du den folgenden Befehlt benutzen:
+`git checkout -b BRANCHNAME`. Es ist allgemeiner Konsens, Änderungen auf einem Branch durch zuführen
+und diese Commit für Commit zu machen. Am Ende wird dann alles mit einmal auf den `main` Branch
+geschoben.
 
-The commands below will add to your current `branch`. You can change
-that by running `git checkout BRANCHNAME` before making commits, where
-`BRANCHNAME` is the name of an existing branch. To create a new branch use
-`git checkout -b BRANCHNAME`. It is common to make changes in a new branch
-gradually, i.e. commit by commit and then to add all of them to a main branch
-afterwards.
+Du kannst Dateien erstellen/ändern oder löschen so lange du willst. Wenn du mit dem aktuellen Stand
+zufrieden bist, dann kannst du die Änderungen mit `git add FILENAME` zu einem `COMMIT` hinzufügen.
+Du kannst entweder mehrere Dateien hinzufügen, oder mit `git add .`, alle aktuelle Änderungen
+hinzufügen.
+
+Sobald du deine Änderungen vorgemerkt hast kannst du sie mit `git commit` fest-
+halten. Git wird dich dann bitten eine Nachricht einzugeben um die Änderungen zu
+beschreiben. Ein gängiges Format ist es mit einer einzeiligen, kurzen Zusammen-
+fassung zu beginnen (< 50 Zeichen), gefolgt von einer Leerzeile sowie einer
+ausführlicheren Beschreibung in den Zeilen danach.
+Welche Änderungen der Commit genau enthält und wann er erstellt wurde merkt sich
+Git für dich. ;)
+Es ist ratsam sich in der Nachricht auf Dinge zu fokussieren die nicht im Commit
+selbst sichtbar sind, beispielsweise warum die Änderungen gemacht wurden.
+Commits erlauben es dir dann vergangene Versionen von Dateien
+wiederherzustellen.
+
+Unter der Annahme das du mit der Kopie eines bereits existierenden Repositorys
+arbeitest kannst du deine Änderungen mit `git push` hochladen.
