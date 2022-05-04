@@ -94,13 +94,13 @@ Wir lernen wie man ein Array durchläuft und was Blöcke sind
 
 [Deutsche Version](/lessons/3-blocks-and-loops.md#german)
 
-## Lesson 4 - Practise / Übung
+## Lesson 4 - Practice / Übung
 
-We learn about hashes and practise what has been covered so far
+We learn about hashes and practice what has been covered so far.
 
 [English Version](/lessons/4-practise.md#english)
 
-Wir lernen Hashes kennen und üben das bisher gelernte
+Wir lernen Hashes kennen und üben das bisher gelernte.
 
 [Deutsche Version](/lessons/4-practise.md#german)
 
@@ -130,7 +130,7 @@ We learn about String interpolation and symbols.
 
 [English Version](lessons/7-revisiting-strings-and-hashes.md#english)
 
-Wir lernen etwas über String Interpolation und Symbols sind.
+Wir lernen etwas über String Interpolation und Symbols.
 
 [Deutsche Version](lessons/7-revisiting-strings-and-hashes.md#deutsch)
 
