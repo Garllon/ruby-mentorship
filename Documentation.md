@@ -40,7 +40,6 @@ chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.badfv.de/files/D
 - `git log` - shows all local commits
 
 
-
 ### Glossary
 * Commit
 * Branches
@@ -49,4 +48,5 @@ chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.badfv.de/files/D
 
 
 to be continued...
+
 https://docs.google.com/document/d/1aSrEIcgZAemE_6Y6-_l2hheXvgzF3bCvQAbW_dlpifM/edit
